@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap');
+
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+.navbar-toggler{
+
+    background-color: white;
+}
+
+ .nav-item{
+
+    color: white;
+}
+
+
+
+
+/* Navbar Media Query */
+
+@media(max-width:576px){
+
+    .logo{
+        height: 0px;
+        width:0px;
+        visibility: hidden;
+    }
+
+    .header{
+        height: 0px;
+        width: 0px;
+        visibility: hidden;
+    }
+}
