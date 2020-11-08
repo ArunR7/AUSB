@@ -22,9 +22,145 @@
     color:white;
 }
 
+.navbar-brand{
+
+    padding:20px;
+    color:white;
+    font-size: 24px;
+    font-weight:600;
+}
+
+.navbar-toggler-icon{
+    
+    position: relative;
+    top: 0;
+    bottom: 0;
+    padding:5px;  
+    color:#FFCC66; 
+}
+
+.nav-item .nav-link{
+    color:white;
+    font-size: 18px;
+    font-weight:400;
+    
+}
+
+.nav-link{
+
+    padding:10px;
+}
+
+.dropdown-item{
+    padding:10px;
+}
+
+ .scroll-news{
+    position: relative;
+    color:#FFCC66;
+    background-color: #192F59;
+    opacity:78%;
+    width:100%;
+    height: 2em;
+    
+}
+
+.scroll-news p{
+
+    position: relative;
+    left:20%;
+    font-size: 1rem;
+}
+
+.carousel-item{
+
+    border-radius: 8px;
+}
+
+/* Ground Background */
+
+.ground img{
+   
+    position:relative;
+    width: 100%;
+    height: auto;
+    position: absolute;
+}
+
+.ground-container{
+
+    position: relative;
+}
+
+/* Zonal Section */
+
+.Zonal{
+
+    position: relative;
+    background-color: #192F59;
+    width:20%;
+    height:50vh;
+    top:10rem;
+    left: 10%;
+    border-radius:8px;
+
+ 
+}
+
+.Zonal ul li{
+    color:#FFCC66;
+    list-style-type: none;
+    padding:10px;
+}
+
+.Zonal h2{
+
+    font-size: 18px;
+    font-weight: 600;
+    color: white;
+    padding-left: 30%;
+}
+
+/* InterZonal Section */
 
 
-/* Navbar Media Query */
+.InterZonal{
+
+    position: relative;
+    background-color: #192F59;
+    width:20%;
+    height:50vh;
+    top:-13rem;
+    left: 40%;
+    border-radius:8px;
+
+ 
+}
+
+.InterZonal ul li{
+    color:#FFCC66;
+    list-style-type: none;
+    padding:10px;
+}
+
+.InterZonal h2{
+
+    font-size: 18px;
+    font-weight: 600;
+    color: white;
+    padding-left: 30%;
+}
+
+
+
+
+
+
+
+
+
+
+/*  Media Query 576px */
 
 @media(max-width:576px){
 
@@ -34,11 +170,6 @@
         visibility: hidden;
     }
 
-    .header{
-        height: 0px;
-        width: 0px;
-        visibility: hidden;
-    }
 
     
 .search{
@@ -49,8 +180,60 @@
   
 }
 
+.navbar-brand{
+
+    padding:20px;
+    color:white;
+    font-size: 18px;
+    font-weight:600;
+}
+
+.nav-item .nav-link{
+    color:white;
+    font-size: 16px;
+    font-weight:400;
+}
+
+.nav-link{
+
+    padding:10px;
+}
+
+.dropdown-item{
+    padding:10px;
+}
+
+.scroll-news{
+    height: 0px;
+    width: 0px;
+    visibility: hidden;
     
 }
+.Zonal{
+
+    position: relative;
+    background-color: #192F59;
+    width:55%;
+    height:50vh;
+    top:-5rem;
+    left:-2rem;
+    border-radius:8px;
+    scale: 45%;
+ 
+}
+
+
+
+
+
+
+
+
+
+    
+}
+
+/* Media Query 768px */
 
 @media(max-width:768px){
 
@@ -76,8 +259,39 @@
   
 }
 
+.scroll-news{
+    height: 0px;
+    width: 0px;
+    visibility: hidden;
+    
+}
 
-        
+
+.scroll-news p{
+
+    height: 0px;
+    width: 0px;
+    visibility: hidden;
+}
+
+.InterZonal{
+
+    position: relative;
+    background-color: #192F59;
+    width:60%;
+    height:57vh;
+    top:-29rem;
+    left: 20%;
+    border-radius:8px;
+    scale: 40%;
+
+ 
+}
+
+
+
 
 
 }
+
+
