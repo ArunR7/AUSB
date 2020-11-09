@@ -100,7 +100,7 @@
     background-color: #192F59;
     width: 20%;
     height: auto;
-    top: 15vmin;
+    top: 35vmin;
     left:18vmin;
     border-radius: 8px;  
     transition:0.5s;
@@ -191,8 +191,8 @@
     position: relative;
     background-color: #192F59;
     width: 20%;
-    height: auto;
-    top: -30vmin;
+    height: 50vh;
+    top: -15vmin;
     left:75vmin;
     border-radius: 8px;  
     transition:0.5s;
@@ -219,6 +219,41 @@
     padding-left: 30%;
 } 
 
+/* InterUniversity Section */
+
+
+.InterUniversity{
+
+    position: relative;
+    background-color: #192F59;
+    width: 20%;
+    height: auto;
+    top: -60vmin;
+    left:135vmin;
+    border-radius: 8px;  
+    transition:0.5s;
+    cursor: pointer;
+ 
+}
+
+.InterUniversity:hover{
+
+    transform: translateY(-50px);
+}
+
+.InterUniversity  ul li{
+    color:#FFCC66;
+    list-style-type: none;
+    padding:10px;
+}
+
+.InterUniversity h2{
+
+    font-size: 18px;
+    font-weight: 600;
+    color: white;
+    padding-left: 30%;
+} 
  
 
 
@@ -302,12 +337,45 @@
  
 }
 
+.Zonal ul li{
+    
+    height: 0px;
+    width: 0px;
+    visibility: hidden;
+}
+
+.InterZonal ul li{
+
+    height: 0px;
+    width: 0px;
+    visibility: hidden;
+ 
+
+}
+
 .InterZonal{
 
     height: 0px;
     width: 0px;
     visibility: hidden;
  
+}
+
+.InterUniversity{
+
+    height: 0px;
+    width: 0px;
+    visibility: hidden;
+ 
+}
+
+.InterUniversity ul li{
+
+    height: 0px;
+    width: 0px;
+    visibility: hidden;
+ 
+
 }
 
 
@@ -386,6 +454,23 @@
 
 }
 
+.InterUniversity{
+
+    height: 0px;
+    width: 0px;
+    visibility: hidden;
+ 
+}
+
+.InterUniversity ul li{
+
+    height: 0px;
+    width: 0px;
+    visibility: hidden;
+ 
+
+}
+
 
 }
 
@@ -406,11 +491,45 @@
         visibility: hidden;
     
     }
+
+    .Zonal ul li{
+    
+        height: 0px;
+        width: 0px;
+        visibility: hidden;
+    }
+    
+    .InterZonal ul li{
+    
+        height: 0px;
+        width: 0px;
+        visibility: hidden;
+     
+    
+    }
+
+    .InterUniversity{
+
+        height: 0px;
+        width: 0px;
+        visibility: hidden;
+     
+    }
+    
+    .InterUniversity ul li{
+    
+        height: 0px;
+        width: 0px;
+        visibility: hidden;
+     
+    
+    }
+    
     
 }
 
 
-/* Media Query 992px */
+/* Media Query 1200px */
 
 @media(max-width:1200px){
 
@@ -425,6 +544,38 @@
         height: 0px;
         width: 0px;
         visibility: hidden;
+    
+    }
+    .Zonal ul li{
+    
+        height: 0px;
+        width: 0px;
+        visibility: hidden;
+    }
+    
+    .InterZonal ul li{
+    
+        height: 0px;
+        width: 0px;
+        visibility: hidden;
+     
+    
+    }
+    
+    .InterUniversity{
+
+        height: 0px;
+        width: 0px;
+        visibility: hidden;
+     
+    }
+    
+    .InterUniversity ul li{
+    
+        height: 0px;
+        width: 0px;
+        visibility: hidden;
+     
     
     }
     
