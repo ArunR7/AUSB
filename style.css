@@ -699,6 +699,74 @@
     
 
 }
+
+
+.footer{
+    background-color:#192F59;
+    width:100%;
+    height:100vh;
+}
+
+.footer ul{
+   
+    display: flex;
+    flex-direction:column ;
+    width: 100%;
+    height: auto;
+    background-color: #192F59;
+
+    
+
+}
+
+.footer ul li{
+   
+    list-style-type: none;
+    padding: 5px;
+    color: white;
+    font-size: 18px;
+    font-weight: 550;
+    
+}
+
+.footer ul p{
+    display: block;
+    color: #FFCC66;
+    padding: 20vmin;
+    
+
+    
+}
+
+.footer ul li .N2{
+
+    visibility: hidden;
+}
+
+
+.line{
+    
+
+    color: white;
+    transform: translateY(600px);
+
+}
+
+
+.line2{
+
+      
+    color: #FFCC66;
+    border: 1px solid #FFCC66;
+    
+
+    
+}
+
+
+
+ 
+
  
  
 
