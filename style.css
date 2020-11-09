@@ -91,20 +91,26 @@
 
     position: relative;
 }
-
+ 
 /* Zonal Section */
 
-.Zonal{
+ .Zonal{
 
     position: relative;
     background-color: #192F59;
-    width:20%;
-    height:50vh;
-    top:10rem;
-    left: 10%;
-    border-radius:8px;
-
+    width: 20%;
+    height: auto;
+    top: 15vmin;
+    left:18vmin;
+    border-radius: 8px;  
+    transition:0.5s;
+    cursor: pointer;
  
+}
+
+.Zonal:hover{
+
+    transform: translateY(-50px);
 }
 
 .Zonal ul li{
@@ -119,6 +125,62 @@
     font-weight: 600;
     color: white;
     padding-left: 30%;
+} 
+
+/* Latest News */
+
+.Latest-news{
+
+    background-color: #192F59;
+    border-radius: 8px;
+   
+
+}
+
+.Latest-news ul li{
+
+    list-style-type: none;
+    color:#FFCC66;
+    padding:5px;
+}
+
+/* Screen Reader Access */
+
+.Screen-reader{
+    background-color: #192F59;
+    border-radius: 8px;
+    width:100%;
+    height:auto;
+
+}
+
+.Screen-reader ul li{
+
+    
+    list-style-type: none;
+    color:#FFCC66;
+    padding:5px;
+
+}
+
+/* Sports Insights */
+
+.particles-js{
+
+    background-color:#192F59;
+    width:100%;
+    height:10vh;
+
+}
+
+.particles-js p{
+    color:white;
+}
+
+.card img{
+    width: 100%;
+    height: auto;
+    padding: 20px;
 }
 
 /* InterZonal Section */
@@ -128,13 +190,19 @@
 
     position: relative;
     background-color: #192F59;
-    width:20%;
-    height:50vh;
-    top:-13rem;
-    left: 40%;
-    border-radius:8px;
-
+    width: 20%;
+    height: auto;
+    top: -30vmin;
+    left:75vmin;
+    border-radius: 8px;  
+    transition:0.5s;
+    cursor: pointer;
  
+}
+
+.InterZonal:hover{
+
+    transform: translateY(-50px);
 }
 
 .InterZonal ul li{
@@ -149,9 +217,9 @@
     font-weight: 600;
     color: white;
     padding-left: 30%;
-}
+} 
 
-
+ 
 
 
 
@@ -209,24 +277,38 @@
     visibility: hidden;
     
 }
-.Zonal{
 
-    position: relative;
-    background-color: #192F59;
-    width:55%;
-    height:50vh;
-    top:-5rem;
-    left:-2rem;
-    border-radius:8px;
-    scale: 45%;
- 
+
+.Latest-news{
+    height: 0px;
+    width: 0px;
+    visibility: hidden;
+
 }
 
 
+.Screen-reader{
+    height: 0px;
+    width: 0px;
+    visibility: hidden;
+}
 
 
+.Zonal{
 
+    height: 0px;
+    width: 0px;
+    visibility: hidden;
+ 
+}
 
+.InterZonal{
+
+    height: 0px;
+    width: 0px;
+    visibility: hidden;
+ 
+}
 
 
 
@@ -235,7 +317,8 @@
 
 /* Media Query 768px */
 
-@media(max-width:768px){
+@media(max-width:768px)
+{
 
     .logo{
         height: 0px;
@@ -274,24 +357,80 @@
     visibility: hidden;
 }
 
-.InterZonal{
+.Latest-news{
+    height: 0px;
+    width: 0px;
+    visibility: hidden;
 
-    position: relative;
-    background-color: #192F59;
-    width:60%;
-    height:57vh;
-    top:-29rem;
-    left: 20%;
-    border-radius:8px;
-    scale: 40%;
+}
 
+
+.Screen-reader{
+    height: 0px;
+    width: 0px;
+    visibility: hidden;
+}
+
+
+.Zonal{
+    height: 0px;
+    width: 0px;
+    visibility: hidden;
  
 }
 
+.InterZonal{
+    height: 0px;
+    width: 0px;
+    visibility: hidden;
 
-
+}
 
 
 }
+
+/* Media Query 992px */
+
+@media(max-width:992px){
+
+    .Zonal{
+        height: 0px;
+        width: 0px;
+        visibility: hidden;
+     
+    }
+    
+    .InterZonal{
+        height: 0px;
+        width: 0px;
+        visibility: hidden;
+    
+    }
+    
+}
+
+
+/* Media Query 992px */
+
+@media(max-width:1200px){
+
+    .Zonal{
+        height: 0px;
+        width: 0px;
+        visibility: hidden;
+     
+    }
+    
+    .InterZonal{
+        height: 0px;
+        width: 0px;
+        visibility: hidden;
+    
+    }
+    
+}
+
+
+
 
 
