@@ -821,6 +821,60 @@
     margin:50px 0px 0px 150px;
 }
 
+/* Physical Director Profile Section */
+
+
+.Physical{
+    
+    position: relative;
+    top:10vmin;
+    left:10%;
+    width:80%;
+    height:50vh;
+    background-color: #192F59;
+    border-radius:8px;
+}
+
+.director{
+
+    position: relative;
+    top:10%;
+    left:5%;
+    background-color: #FFCC66;
+    height: 8vh;    
+    width:22%;
+    color: #192F59;
+    
+}
+
+.director P{
+
+    position: relative;
+    padding: 10px 0px 0px 35px;
+    font-weight: 550;
+    font-size: 18px;
+    width:500%;
+}
+
+.Physical .director hr{
+    
+    position: relative;
+    color: #FFCC66;
+    border-width: 3px;
+    background-color: #FFCC66;
+    width: 300%;
+    left:100%;
+    top:8%;
+}
+
+.director .link{
+    
+    position: relative;
+    top:50%;
+    color: #FFCC66;
+    
+}
+
 
 
 
@@ -1410,6 +1464,64 @@
 
     margin:50px 0px 0px 150px;
 }
+
+
+/* Physical Director Profile */
+
+
+.Physical{
+    
+    position: relative;
+    top:10vmin;
+    left:10%;
+    width:80%;
+    height:50vh;
+    background-color: #192F59;
+    border-radius:8px;
+}
+
+.director{
+
+    position: relative;
+    top:10%;
+    left:5%;
+    background-color: #FFCC66;
+    height: 8vh;    
+    width:75%;
+    color: #192F59;
+    
+}
+
+.director P{
+
+    position: relative;
+    padding: 10px 0px 0px 35px;
+    font-weight: 550;
+    font-size: 18px;
+    width:500%;
+}
+
+.Physical .director hr{
+    
+    position: relative;
+    color: #FFCC66;
+    border-width: 3px;
+    background-color: #FFCC66;
+    width: 300%;
+    left:100%;
+    top:8%;
+    visibility: hidden;
+}
+
+.director .link{
+    
+    position: relative;
+    top:50%;
+    color: #FFCC66;
+    
+}
+
+
 
 
 
