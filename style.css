@@ -572,6 +572,256 @@
   
 }
 
+/* Zone-Wise Colleges Section */
+
+.Zone-wise{
+    
+    position: relative;
+    top:10vmin;
+    left:10%;
+    width: 80%;
+    height: 200vh;
+    background-color: #192F59;
+    border-radius:8px;
+}
+
+.colleges{
+    
+    position: relative;
+    top:2%;
+    left:5%;
+    background-color: #FFCC66;
+    height: 7vh;    
+    width: 20%;
+    color: #192F59;
+    
+    
+}
+
+.colleges P{
+
+    padding: 10px 0px 0px 45px;
+    font-weight: 550;
+    font-size: 18px;
+}
+
+.Zone-wise .colleges hr{
+    
+    position: relative;
+    color: #FFCC66;
+    background-color:#FFCC66;
+    border-width:2px;
+    top: -4%;
+    left:100%;
+    width: 200%;
+
+}
+
+.colleges ul li{
+    
+    display: flex;
+    justify-content: space-between;
+    color: #192F59;
+    background-color: #FFCC66;
+    width: 150%;
+    height: 44px;
+    padding: 20px;
+    border-radius: 4px;
+}
+
+
+.Zone-wise .colleges ul li:nth-child(1){
+
+    color:#192F59;
+    margin-top: 20px;
+    padding: 10px 0px 0px 20px;
+    padding: 10px 0px 0px 50px;
+}
+
+.Zone-wise .colleges ul li:nth-child(2){
+
+    color:#192F59;
+    margin-top: 20px;
+    padding: 10px 0px 0px 50px;
+}
+
+.Zone-wise .colleges ul li:nth-child(3){
+
+    color:#192F59;
+    margin-top: 20px;
+    padding: 10px 0px 0px 50px;
+}
+
+
+.Zone-wise .colleges ul li:nth-child(4){
+
+    color:#192F59;
+    margin-top: 20px;
+    padding: 10px 0px 0px 50px;
+}
+
+
+
+.Zone-wise .colleges ul li:nth-child(5){
+
+    color:#192F59;
+    margin-top: 20px;
+    padding: 10px 0px 0px 50px;
+}
+
+
+
+.Zone-wise .colleges ul li:nth-child(6){
+
+    color:#192F59;
+    margin-top: 20px;
+    padding: 10px 0px 0px 50px;
+    margin-left: 200px;
+    transform: translateY(-320px);
+}
+
+.Zone-wise .colleges ul li:nth-child(7){
+
+    color:#192F59;
+    margin-top: 20px;
+    padding: 10px 0px 0px 50px;
+    margin-left: 200px;
+    transform: translateY(-320px);
+}
+
+.Zone-wise .colleges ul li:nth-child(8){
+
+    color:#192F59;
+    margin-top: 20px;
+    padding: 10px 0px 0px 50px;
+    margin-left: 200px;
+    transform: translateY(-320px);
+}
+
+
+.Zone-wise .colleges ul li:nth-child(9){
+
+    color:#192F59;
+    margin-top: 20px;
+    padding: 10px 0px 0px 50px;
+    margin-left: 200px;
+    transform: translateY(-320px);
+}
+
+
+
+.Zone-wise .colleges ul li:nth-child(10){
+
+    color:#192F59;
+    margin-top: 20px;
+    padding: 10px 0px 0px 50px;
+    margin-left: 200px;
+    transform: translateY(-320px);
+}
+
+.Zone-wise .colleges ul li:nth-child(11){
+
+    color:#192F59;
+    margin-top: 20px;
+    padding: 10px 0px 0px 50px;
+    margin-left: 400px;
+    transform: translateY(-638px);
+}
+
+.Zone-wise .colleges ul li:nth-child(12){
+
+    color:#192F59;
+    margin-top: 20px;
+    padding: 10px 0px 0px 50px;
+    margin-left: 400px;
+    transform: translateY(-638px);
+}
+
+.Zone-wise .colleges ul li:nth-child(13){
+
+    color:#192F59;
+    margin-top: 20px;
+    padding: 10px 0px 0px 50px;
+    margin-left: 400px;
+    transform: translateY(-638px);
+}
+
+
+.Zone-wise .colleges ul li:nth-child(14){
+
+    color:#192F59;
+    margin-top: 20px;
+    padding: 10px 0px 0px 50px;
+    margin-left: 400px;
+    transform: translateY(-638px);
+}
+
+
+
+.Zone-wise .colleges ul li:nth-child(15){
+
+    color:#192F59;
+    margin-top: 20px;
+    padding: 10px 0px 0px 50px;
+    margin-left: 400px;
+    transform: translateY(-638px);
+}
+
+
+.Zone-wise .colleges ul li:nth-child(16){
+
+    color:#192F59;
+    margin-top: 20px;
+    padding: 10px 0px 0px 50px;
+    margin-left: 600px;
+    transform: translateY(-958px);
+}
+
+.Zone-wise .colleges ul li:nth-child(17){
+
+    color:#192F59;
+    margin-top: 20px;
+    padding: 10px 0px 0px 50px;
+    margin-left: 600px;
+    transform: translateY(-958px);
+}
+
+.Zone-wise .colleges ul li:nth-child(18){
+
+    color:#192F59;
+    margin-top: 20px;
+    padding: 10px 0px 0px 50px;
+    margin-left: 600px;
+    transform: translateY(-958px);
+}
+
+
+.Zone-wise .colleges ul li:nth-child(19){
+
+    color:#192F59;
+    margin-top: 20px;
+    padding: 10px 0px 0px 50px;
+    margin-left: 600px;
+    transform: translateY(-958px);
+}
+
+
+
+.Zone-wise .colleges ul li:nth-child(20){
+
+    color:#192F59;
+    margin-top: 20px;
+    padding: 10px 0px 0px 50px;
+    margin-left: 600px;
+    transform: translateY(-958px);
+}
+
+.wrapper{
+
+    margin:50px 0px 0px 150px;
+}
+
+
 
 
 
@@ -911,9 +1161,256 @@
     font-weight:300;
     font-size: 18px;
   
-    
-  
 }
+
+.Zone-wise{
+    
+    position: relative;
+    top:10vmin;
+    left:10%;
+    width: 80%;
+    height: 220vh;
+    background-color: #192F59;
+    border-radius:8px;
+}
+
+.colleges{
+    
+    position: relative;
+    top:2%;
+    left:5%;
+    background-color: #FFCC66;
+    height: 7vh;    
+    width: 70%;
+    color: #192F59;
+    
+    
+}
+
+.colleges P{
+
+    padding: 10px 0px 0px 45px;
+    font-weight: 550;
+    font-size: 18px;
+}
+
+.Zone-wise .colleges hr{
+    
+    position: relative;
+    color: #FFCC66;
+    background-color:#FFCC66;
+    border-width:2px;
+    top: -4%;
+    left:100%;
+    width: 20%;
+    visibility: hidden;
+
+}
+
+.colleges ul li{
+    
+    display: flex;
+    justify-content: space-between;
+    color: #192F59;
+    background-color: #FFCC66;
+    width: 150%;
+    height: 44px;
+    padding: 20px;
+    border-radius: 4px;
+    flex-direction: column;
+}
+
+
+.Zone-wise .colleges ul li:nth-child(1){
+    
+    position: relative;
+    color:#192F59;
+    top: 2%;
+    left:-100%;
+    padding: 10px 0px 0px 50px;
+}
+
+.Zone-wise .colleges ul li:nth-child(2){
+
+     
+    position: relative;
+    color:#192F59;
+    top: 2%;
+    left:-100%;
+    padding: 10px 0px 0px 50px;
+}
+
+.Zone-wise .colleges ul li:nth-child(3){
+
+     
+    position: relative;
+    color:#192F59;
+    top: 2%;
+    left:-100%;
+    padding: 10px 0px 0px 50px;
+}
+
+
+.Zone-wise .colleges ul li:nth-child(4){
+ 
+    position: relative;
+    color:#192F59;
+    top: 2%;
+    left:-100%;
+    padding: 10px 0px 0px 50px;
+}
+
+
+
+.Zone-wise .colleges ul li:nth-child(5){
+
+   
+    position: relative;
+    color:#192F59;
+    top: 2%;
+    left:-100%;
+    padding: 10px 0px 0px 50px;
+}
+
+
+
+.Zone-wise .colleges ul li:nth-child(6){
+   
+    color:#192F59;
+    margin-top: 400%;
+    padding: 10px 0px 0px 50px;
+    margin-left: -100%;
+ 
+}
+
+.Zone-wise .colleges ul li:nth-child(7){
+
+       
+    color:#192F59;
+    margin-top: 20%;
+    padding: 10px 0px 0px 50px;
+    margin-left: -100%;
+}
+
+.Zone-wise .colleges ul li:nth-child(8){
+   
+    color:#192F59;
+    margin-top: 20%;
+    padding: 10px 0px 0px 50px;
+    margin-left:-100%;
+}
+
+
+.Zone-wise .colleges ul li:nth-child(9){
+
+    color:#192F59;
+    margin-top: 20%;
+    padding: 10px 0px 0px 50px;
+    margin-left:-100%;
+}
+
+
+
+.Zone-wise .colleges ul li:nth-child(10){
+
+    color:#192F59;
+    margin-top: 20%;
+    padding: 10px 0px 0px 50px;
+    margin-left:-100%;
+}
+
+.Zone-wise .colleges ul li:nth-child(11){
+
+    color:#192F59;
+    margin-top: 400%;
+    padding: 10px 0px 0px 50px;
+    margin-left:-100%;
+}
+
+.Zone-wise .colleges ul li:nth-child(12){
+
+    color:#192F59;
+    margin-top: 20%;
+    padding: 10px 0px 0px 50px;
+    margin-left:-100%;
+}
+
+.Zone-wise .colleges ul li:nth-child(13){
+
+    color:#192F59;
+    margin-top: 20%;
+    padding: 10px 0px 0px 50px;
+    margin-left:-100%;
+}
+
+
+.Zone-wise .colleges ul li:nth-child(14){
+
+    color:#192F59;
+    margin-top: 20%;
+    padding: 10px 0px 0px 50px;
+    margin-left:-100%;
+}
+
+
+
+.Zone-wise .colleges ul li:nth-child(15){
+
+    color:#192F59;
+    margin-top: 20%;
+    padding: 10px 0px 0px 50px;
+    margin-left:-100%;
+}
+
+
+.Zone-wise .colleges ul li:nth-child(16){
+
+    color:#192F59;
+    margin-top: 400%;
+    padding: 10px 0px 0px 50px;
+    margin-left:-100%;
+}
+
+.Zone-wise .colleges ul li:nth-child(17){
+
+    color:#192F59;
+    margin-top: 20%;
+    padding: 10px 0px 0px 50px;
+    margin-left:-100%;
+}
+
+.Zone-wise .colleges ul li:nth-child(18){
+
+    color:#192F59;
+    margin-top: 20%;
+    padding: 10px 0px 0px 50px;
+    margin-left:-100%;
+}
+
+
+.Zone-wise .colleges ul li:nth-child(19){
+
+    color:#192F59;
+    margin-top: 20%;
+    padding: 10px 0px 0px 50px;
+    margin-left:-100%;
+}
+
+
+
+.Zone-wise .colleges ul li:nth-child(20){
+    color:#192F59;
+    margin-top: 20%;
+    padding: 10px 0px 0px 50px;
+    margin-left:-100%;
+    
+}
+
+.wrapper{
+
+    margin:50px 0px 0px 150px;
+}
+
 
 
 
