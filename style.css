@@ -416,6 +416,7 @@
     position: relative;
     color: #FFCC66;
     margin-top: 10%;
+
     width: 100%;
     
 }
@@ -433,20 +434,18 @@
     display: inline-block;
     color: #FFCC66;
     position: relative;
-    top:-400%;
-    left:130%
+    left:130%;
+    top:-400%
+    
   
 }
 
 .Message .heading span ul{
 
     position: relative;
-    top:-400%;
     left:130%;
- 
- 
- 
- 
+    top:-400%
+   
 }
 
 .Message .heading span ul li{
@@ -454,40 +453,39 @@
     color: #FFCC66;
     list-style-type: none;
     padding: 10px;
-    
+    width:100vh;
 }
 
 .Message .heading span ul li:nth-child(7){
     
-
+    width: 1200px;
     padding: 30px;
-    width: 100%;
     font-weight: 300;
 }
 
 
 .Message .heading span ul li:nth-child(8){
 
-
+    width: 1200px;
     padding: 20px;
-    width: 100%;
+ 
     font-weight: 300;
 }
 
 .Message .heading span ul li:nth-child(9){
 
-  
+    width: 1200px;
     padding: 20px;
-    width: 100%;
+   
     font-weight: 300;
 }
 
 
 .Message .heading span ul li:nth-child(10){
 
-
+    width: 1200px;
     padding: 20px;
-    width:100%;
+  
     font-weight: 300;
 }
 
@@ -723,28 +721,32 @@
 
 }
 
+
 .Message .heading span h2{
     
     display: inline-block;
     color: #FFCC66;
     position: relative;
-    top:10%;
-    left:4%
-  
+    left:0%;
+    top:10%; 
+    font-size:1.5em;  
+ 
 }
+
 
 .Message .heading span ul{
 
     position: relative;
-    top:-15%;
-    left:0%;
- 
- 
- 
- 
+    left:-5%;
+    top:0%;
+    font-size:1em;
+       
 }
 
+.Message .heading span ul li:nth-child(6){
 
+
+    font-size:13px;
 
 
     
