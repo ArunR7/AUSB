@@ -613,7 +613,7 @@
     border-width:2px;
     top: -4%;
     left:100%;
-    width: 200%;
+    width: 300%;
 
 }
 
@@ -863,6 +863,7 @@
     border-width: 3px;
     background-color: #FFCC66;
     left:100%;
+    width: 250%;
     top:8%;
 }
 
@@ -874,10 +875,268 @@
     
 }
 
+/* Staff Section */
+
+.Officials{
+    
+    transform: translateX(150px);
+    margin-top: 150px;
+    margin-bottom: 150px;
+    width: 1240px;
+    height: 2700px;
+    background-color: #192F59;
+    border-radius:8px;
+}
+
+.faculities{
+    background-color: #FFCC66;
+    height: 50px;    
+    width: 205px;
+    color: #192F59;
+    transform: translateY(50px);
+    margin-left: 50px;
+    
+}
+
+.faculities P{
+
+    padding: 10px 0px 0px 55px;
+    font-weight: 550;
+    font-size: 18px;
+}
+
+.Officials .faculities hr{
+
+    color: #FFCC66;
+    margin-top: 10px;
+    transform: translateX(200px);
+    width: 900px;
+}
+
+.director .link{
+
+    color: #FFCC66;
+    padding-top: 50px;
+}
+
+.Officials .frame-1{
+    
+    width: 281px;
+    height: 298px;
+    background-color:#C4C4C4;
+    border-radius: 6px;
+    margin-top: 50px;
+    transform: translateX(450px);
+    
+
+}
+
+.Officials .frame-1 img{
+
+    width: 116px;
+    height: 116px;
+    transform: translateX(80px);
+    margin-top: 20px;
+}
+
+.Officials .frame-1 p{
+
+    font-size: 14px;
+    padding: 10px 0px 0px 20px;
+}
+
+
+.Officials .frame-2{
+    
+    width: 269px;
+    height: 275px;
+    background-color:#C4C4C4;
+    border-radius: 6px;
+    margin-top: 20px;
+    transform: translateX(0px);
+    
+
+}
+
+.Officials .frame-2 img{
+
+    width: 116px;
+    height: 116px;
+    transform: translateX(80px);
+    margin-top: 20px;
+}
+
+.Officials .frame-2 p{
+
+    font-size: 14px;
+    padding: 10px 0px 0px 20px;
+}
+
+
+.Officials .frame-3{
+    
+    width: 269px;
+    height: 275px;
+    background-color:#C4C4C4;
+    border-radius: 6px;
+    transform: translateY(-275px);
+    margin-left: 300px;
+    
+
+}
+
+.Officials .frame-3 img{
+
+    width: 116px;
+    height: 116px;
+    transform: translateX(80px);
+    margin-top: 20px;
+}
+
+.Officials .frame-3 p{
+
+    font-size: 14px;
+    padding: 10px 0px 0px 20px;
+}
 
 
 
+.Officials .frame-4{
+    
+    width: 269px;
+    height: 275px;
+    background-color:#C4C4C4;
+    border-radius: 6px;
+    transform: translateY(-550px);
+    margin-left: 600px;
+    
 
+}
+
+.Officials .frame-4 img{
+
+    width: 116px;
+    height: 116px;
+    transform: translateX(80px);
+    margin-top: 20px;
+}
+
+.Officials .frame-4 p{
+
+    font-size: 14px;
+    padding: 10px 0px 0px 20px;
+}
+
+
+.Officials .frame-5{
+    
+    width: 269px;
+    height: 275px;
+    background-color:#C4C4C4;
+    border-radius: 6px;
+    transform: translateY(-825px);
+    margin-left: 890px;
+    
+
+}
+
+.Officials .frame-5 img{
+
+    width: 116px;
+    height: 116px;
+    transform: translateX(80px);
+    margin-top: 20px;
+}
+
+.Officials .frame-5 p{
+
+    font-size: 14px;
+    padding: 10px 0px 0px 20px;
+}
+
+.Officials .frame-6{
+    
+    width: 259px;
+    height: 290px;
+    background-color:#C4C4C4;
+    border-radius: 6px;
+    transform: translateY(-785px);
+    margin-left: 80px;
+    
+
+}
+
+.Officials .frame-6 img{
+
+    width: 116px;
+    height: 116px;
+    transform: translateX(80px);
+    margin-top: 20px;
+}
+
+.Officials .frame-6 p{
+
+    font-size: 14px;
+    padding: 10px 0px 0px 20px;
+}
+
+.Officials .frame-7{
+    
+    width: 259px;
+    height: 290px;
+    background-color:#C4C4C4;
+    border-radius: 6px;
+    transform: translateY(-1075px);
+    margin-left: 400px;
+    
+
+}
+
+.Officials .frame-7 img{
+
+    width: 116px;
+    height: 116px;
+    transform: translateX(80px);
+    margin-top: 20px;
+}
+
+.Officials .frame-7 p{
+
+    font-size: 14px;
+    padding: 10px 0px 0px 20px;
+}
+
+
+.Officials .frame-8{
+    
+    width: 259px;
+    height: 290px;
+    background-color:#C4C4C4;
+    border-radius: 6px;
+    transform: translateY(-1365px);
+    margin-left: 720px;
+    
+
+}
+
+.Officials .frame-8 img{
+
+    width: 116px;
+    height: 116px;
+    transform: translateX(80px);
+    margin-top: 20px;
+}
+
+.Officials .frame-8 p{
+
+    font-size: 14px;
+    padding: 10px 0px 0px 20px;
+}
+
+.wrapper-2,.wrapper-3{
+
+    margin-top: 50px;
+}
 
 
 /*  Media Query 576px */
@@ -1124,7 +1383,7 @@
     position: relative;
     left:-5%;
     top:0%;
-    font-size:13px;
+    font-size:8px;
        
 }
 
