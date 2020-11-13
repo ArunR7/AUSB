@@ -607,13 +607,12 @@
 
 .Zone-wise .colleges hr{
     
-    position: relative;
+   
     color: #FFCC66;
-    background-color:#FFCC66;
-    border-width:2px;
-    top: -4%;
-    left:100%;
+    position: relative;
     width: 300%;
+    background-color: #FFCC66;
+    border-width: 2px;
 
 }
 
@@ -841,7 +840,7 @@
     top:10%;
     left:5%;
     background-color: #FFCC66;
-    height: 8vh;    
+    height: 7.5vh;    
     width:22%;
     color: #192F59;
     
@@ -857,14 +856,12 @@
 }
 
 .Physical .director hr{
-    
-    position: relative;
+   
     color: #FFCC66;
-    border-width: 3px;
+    position: relative;
+    width: 300%;
     background-color: #FFCC66;
-    left:100%;
-    width: 250%;
-    top:8%;
+    border-width: 2px;
 }
 
 .director .link{
@@ -879,28 +876,30 @@
 
 .Officials{
     
-    transform: translateX(150px);
-    margin-top: 150px;
-    margin-bottom: 150px;
-    width: 1240px;
-    height: 2700px;
+    position: relative;
+    top:10vmin;
+    left:10%;
+    width:85%;
+    height:300vh;
     background-color: #192F59;
     border-radius:8px;
 }
 
 .faculities{
+
+    position: relative;
     background-color: #FFCC66;
-    height: 50px;    
-    width: 205px;
+    height: 7vh;    
+    width: 15%;
     color: #192F59;
-    transform: translateY(50px);
-    margin-left: 50px;
+    top:2%;
+    left:5%;
     
 }
 
 .faculities P{
 
-    padding: 10px 0px 0px 55px;
+    padding: 1vmin 0vmin 0vmin 5vmin;
     font-weight: 550;
     font-size: 18px;
 }
@@ -908,9 +907,10 @@
 .Officials .faculities hr{
 
     color: #FFCC66;
-    margin-top: 10px;
-    transform: translateX(200px);
-    width: 900px;
+    position: relative;
+    width: 300%;
+    background-color: #FFCC66;
+    border-width: 2px;
 }
 
 .director .link{
@@ -921,13 +921,11 @@
 
 .Officials .frame-1{
     
-    width: 281px;
-    height: 298px;
+    width: 100%;
+    height:50vh;
     background-color:#C4C4C4;
     border-radius: 6px;
-    margin-top: 50px;
-    transform: translateX(450px);
-    
+      
 
 }
 
@@ -1114,8 +1112,7 @@
     background-color:#C4C4C4;
     border-radius: 6px;
     transform: translateY(-1365px);
-    margin-left: 720px;
-    
+    margin-left: 720px;  
 
 }
 
@@ -1508,13 +1505,12 @@
 
 .Zone-wise .colleges hr{
     
-    position: relative;
+    
     color: #FFCC66;
-    background-color:#FFCC66;
-    border-width:2px;
-    top: -4%;
-    left:100%;
-    width: 20%;
+    position: relative;
+    width: 300%;
+    background-color: #FFCC66;
+    border-width: 2px;
     visibility: hidden;
 
 }
@@ -1773,6 +1769,243 @@
     top:50%;
     color: #FFCC66;
     
+}
+
+/* Staff Section */
+
+
+.Officials .frame-1{
+    
+    width: 500%;
+    height:50vh;
+    background-color:#C4C4C4;
+    border-radius: 6px;
+      
+
+}
+
+.Officials .frame-1 img{
+
+    width: 116px;
+    height: 116px;
+    transform: translateX(80px);
+    margin-top: 20px;
+}
+
+.Officials .frame-1 p{
+
+    font-size: 14px;
+    padding: 10px 0px 0px 20px;
+}
+
+
+.Officials .frame-2{
+    
+    width: 269px;
+    height: 275px;
+    background-color:#C4C4C4;
+    border-radius: 6px;
+    margin-top: 20px;
+    transform: translateX(0px);
+    
+
+}
+
+.Officials .frame-2 img{
+
+    width: 116px;
+    height: 116px;
+    transform: translateX(80px);
+    margin-top: 20px;
+}
+
+.Officials .frame-2 p{
+
+    font-size: 14px;
+    padding: 10px 0px 0px 20px;
+}
+
+
+.Officials .frame-3{
+    
+    position: relative;
+    top:70vmin;
+    left:-550%;
+    width:500%;
+    height: 45vh;
+    background-color:#C4C4C4;
+    border-radius: 6px;
+  
+    
+
+}
+
+.Officials .frame-3 img{
+
+    width: 116px;
+    height: 116px;
+    transform: translateX(80px);
+    margin-top: 20px;
+}
+
+.Officials .frame-3 p{
+
+    font-size: 14px;
+    padding: 10px 0px 0px 20px;
+}
+
+
+
+.Officials .frame-4{
+    
+    
+    position: relative;
+    top:140vmin;
+    left:-1080%;
+    width:500%;
+    height: 45vh;
+    background-color:#C4C4C4;
+    border-radius: 6px;
+  
+
+}
+
+.Officials .frame-4 img{
+
+    width: 116px;
+    height: 116px;
+    transform: translateX(80px);
+    margin-top: 20px;
+}
+
+.Officials .frame-4 p{
+
+    font-size: 14px;
+    padding: 10px 0px 0px 20px;
+}
+
+
+.Officials .frame-5{
+    
+    position: relative;
+    top:220vmin;
+    left:-1580%;
+    width:500%;
+    height: 45vh;
+    background-color:#C4C4C4;
+    border-radius: 6px;
+    
+
+}
+
+.Officials .frame-5 img{
+
+    width: 116px;
+    height: 116px;
+    transform: translateX(80px);
+    margin-top: 20px;
+}
+
+.Officials .frame-5 p{
+
+    font-size: 14px;
+    padding: 10px 0px 0px 20px;
+}
+
+.Officials .frame-6{
+
+    position: relative;
+    margin-top: 215vmin;
+    left:-110%;
+    width:500%;
+    height: 45vh;
+    background-color:#C4C4C4;
+    border-radius: 6px;
+    
+
+}
+
+.Officials .frame-6 img{
+
+    width: 116px;
+    height: 116px;
+    transform: translateX(80px);
+    margin-top: 20px;
+}
+
+.Officials .frame-6 p{
+
+    font-size: 14px;
+    padding: 10px 0px 0px 20px;
+}
+
+.Officials .frame-7{
+    
+    width: 259px;
+    height: 290px;
+    background-color:#C4C4C4;
+    border-radius: 6px;
+    transform: translateY(-1075px);
+    margin-left: 400px;
+    
+
+}
+
+.Officials .frame-7 img{
+
+    width: 116px;
+    height: 116px;
+    transform: translateX(80px);
+    margin-top: 20px;
+}
+
+.Officials .frame-7 p{
+
+    font-size: 14px;
+    padding: 10px 0px 0px 20px;
+}
+
+
+.Officials .frame-8{
+    
+    width: 259px;
+    height: 290px;
+    background-color:#C4C4C4;
+    border-radius: 6px;
+    transform: translateY(-1365px);
+    margin-left: 720px;
+    
+
+}
+
+.Officials .frame-8 img{
+
+    width: 116px;
+    height: 116px;
+    transform: translateX(80px);
+    margin-top: 20px;
+}
+
+.Officials .frame-8 p{
+
+    font-size: 14px;
+    padding: 10px 0px 0px 20px;
+}
+
+.wrapper-2,.wrapper-3{
+
+    margin-top: 50px;
+}
+
+.Officials{
+    
+    position: relative;
+    top:10vmin;
+    left:10%;
+    width:85%;
+    height:500vh;
+    background-color: #192F59;
+    border-radius:8px;
 }
 
 
