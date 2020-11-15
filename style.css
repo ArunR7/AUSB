@@ -960,8 +960,8 @@
     position: relative;
     top:10vmin;
     left:10%;
-    width:85%;
-    height:300vh;
+    width:85vw;
+    height:400vh;
     background-color: #192F59;
     border-radius:8px;
 }
@@ -980,7 +980,7 @@
 
 .faculities P{
 
-    padding: 1vmin 0vmin 0vmin 5vmin;
+    padding: 5% 0% 0% 20%;
     font-weight: 550;
     font-size: 18px;
 }
@@ -989,21 +989,18 @@
 
     color: #FFCC66;
     position: relative;
-    width: 300%;
+    width: 70vw;
     background-color: #FFCC66;
     border-width: 2px;
 }
 
-.director .link{
-
-    color: #FFCC66;
-    padding-top: 50px;
-}
 
 .Officials .frame-1{
     
-    width: 100%;
+    position:relative;
+    width: 18vw;
     height:50vh;
+    left:25vw;
     background-color:#C4C4C4;
     border-radius: 6px;
       
@@ -1012,208 +1009,231 @@
 
 .Officials .frame-1 img{
 
-    width: 116px;
-    height: 116px;
-    transform: translateX(80px);
-    margin-top: 20px;
+    position: relative;
+    width: 45%;
+    height:30%;
+    margin-top: 10%;
+    left:25%;
 }
 
 .Officials .frame-1 p{
 
     font-size: 14px;
-    padding: 10px 0px 0px 20px;
+    padding: 5% 0% 0% 8%;
 }
 
 
 .Officials .frame-2{
     
-    width: 269px;
-    height: 275px;
+    position:relative;
+    width: 18vw;
+    height:50vh;
+    left:0vw;
     background-color:#C4C4C4;
     border-radius: 6px;
-    margin-top: 20px;
-    transform: translateX(0px);
-    
 
 }
 
 .Officials .frame-2 img{
 
-    width: 116px;
-    height: 116px;
-    transform: translateX(80px);
-    margin-top: 20px;
+    
+    position: relative;
+    width: 45%;
+    height:30%;
+    margin-top: 10%;
+    left:25%;
 }
 
 .Officials .frame-2 p{
 
+    
     font-size: 14px;
-    padding: 10px 0px 0px 20px;
+    padding: 5% 0% 0% 8%;
 }
 
 
 .Officials .frame-3{
     
-    width: 269px;
-    height: 275px;
+ 
+    position:relative;
+    width: 18vw;
+    height:50vh;
+    top:-24.4vw;
+    left:20vw;
     background-color:#C4C4C4;
     border-radius: 6px;
-    transform: translateY(-275px);
-    margin-left: 300px;
-    
 
 }
 
 .Officials .frame-3 img{
 
-    width: 116px;
-    height: 116px;
-    transform: translateX(80px);
-    margin-top: 20px;
+    position: relative;
+    width: 45%;
+    height:30%;
+    margin-top: 10%;
+    left:25%;
 }
 
 .Officials .frame-3 p{
 
+   
     font-size: 14px;
-    padding: 10px 0px 0px 20px;
+    padding: 5% 0% 0% 8%;
 }
 
 
 
 .Officials .frame-4{
     
-    width: 269px;
-    height: 275px;
+  
+    position:relative;
+    width: 18vw;
+    height:50vh;
+    top:-48.9vw;
+    left:40vw;
     background-color:#C4C4C4;
     border-radius: 6px;
-    transform: translateY(-550px);
-    margin-left: 600px;
     
 
 }
 
 .Officials .frame-4 img{
 
-    width: 116px;
-    height: 116px;
-    transform: translateX(80px);
-    margin-top: 20px;
+    position: relative;
+    width: 45%;
+    height:30%;
+    margin-top: 10%;
+    left:25%;
 }
 
 .Officials .frame-4 p{
-
+   
     font-size: 14px;
-    padding: 10px 0px 0px 20px;
+    padding: 5% 0% 0% 8%;
 }
 
 
 .Officials .frame-5{
     
-    width: 269px;
-    height: 275px;
+
+    position:relative;
+    width: 18vw;
+    height:50vh;
+    top:-73.2vw;
+    left:60vw;
     background-color:#C4C4C4;
     border-radius: 6px;
-    transform: translateY(-825px);
-    margin-left: 890px;
+    
     
 
 }
 
 .Officials .frame-5 img{
 
-    width: 116px;
-    height: 116px;
-    transform: translateX(80px);
-    margin-top: 20px;
+    position: relative;
+    width: 45%;
+    height:30%;
+    margin-top: 10%;
+    left:25%;
 }
 
 .Officials .frame-5 p{
 
     font-size: 14px;
-    padding: 10px 0px 0px 20px;
+    padding: 5% 0% 0% 8%;
 }
 
 .Officials .frame-6{
     
-    width: 259px;
-    height: 290px;
+    position:relative;
+    width: 18vw;
+    height:50vh;
     background-color:#C4C4C4;
     border-radius: 6px;
-    transform: translateY(-785px);
-    margin-left: 80px;
+    top:-70vw;
+    left:10vw;
     
 
 }
 
 .Officials .frame-6 img{
 
-    width: 116px;
-    height: 116px;
-    transform: translateX(80px);
-    margin-top: 20px;
+    
+    position: relative;
+    width: 45%;
+    height:30%;
+    margin-top: 10%;
+    left:25%;
 }
 
 .Officials .frame-6 p{
 
     font-size: 14px;
-    padding: 10px 0px 0px 20px;
+    padding: 5% 0% 0% 8%;
 }
 
 .Officials .frame-7{
     
-    width: 259px;
-    height: 290px;
+    position:relative;
+    width: 18vw;
+    height:50vh;
     background-color:#C4C4C4;
     border-radius: 6px;
-    transform: translateY(-1075px);
-    margin-left: 400px;
+    top:-94.5vw;
+    left:30vw;
     
 
 }
 
 .Officials .frame-7 img{
 
-    width: 116px;
-    height: 116px;
-    transform: translateX(80px);
-    margin-top: 20px;
+    position: relative;
+    width: 45%;
+    height:30%;
+    margin-top: 10%;
+    left:25%;
 }
 
 .Officials .frame-7 p{
 
+    
     font-size: 14px;
-    padding: 10px 0px 0px 20px;
+    padding: 5% 0% 0% 8%;
+
 }
 
 
 .Officials .frame-8{
     
-    width: 259px;
-    height: 290px;
+     
+    position:relative;
+    width: 18vw;
+    height:50vh;
     background-color:#C4C4C4;
     border-radius: 6px;
-    transform: translateY(-1365px);
-    margin-left: 720px;  
+    top:-119vw;
+    left:50vw;
 
 }
 
 .Officials .frame-8 img{
 
-    width: 116px;
-    height: 116px;
-    transform: translateX(80px);
-    margin-top: 20px;
+    position: relative;
+    width: 45%;
+    height:30%;
+    margin-top: 10%;
+    left:25%;
 }
 
 .Officials .frame-8 p{
-
+    
     font-size: 14px;
-    padding: 10px 0px 0px 20px;
+    padding: 5% 0% 0% 8%;
 }
 
 .wrapper-2,.wrapper-3{
 
-    margin-top: 50px;
+    margin-top: 50%;
 }
 
 
@@ -1871,13 +1891,55 @@
     
 }
 
-/* Staff Section */
+/* Official Section */
+
+.Officials{
+    
+    position: relative;
+    top:10vmin;
+    left:10%;
+    width:85vw;
+    height:480vh;
+    background-color: #192F59;
+    border-radius:8px;
+}
+
+.faculities{
+
+    position: relative;
+    background-color: #FFCC66;
+    height: 7vh;    
+    width: 35%;
+    color: #192F59;
+    top:2%;
+    left:5%;
+    
+}
+
+.faculities P{
+
+    padding: 5% 0% 0% 20%;
+    font-weight: 550;
+    font-size: 18px;
+}
+
+.Officials .faculities hr{
+
+    color: #FFCC66;
+    position: relative;
+    width: 70vw;
+    background-color: #FFCC66;
+    border-width: 2px;
+    visibility: hidden;
+}
 
 
 .Officials .frame-1{
     
-    width: 500%;
+    position:relative;
+    width: 58vw;
     height:50vh;
+    left:15vw;
     background-color:#C4C4C4;
     border-radius: 6px;
       
@@ -1886,139 +1948,147 @@
 
 .Officials .frame-1 img{
 
-    width: 116px;
-    height: 116px;
-    transform: translateX(80px);
-    margin-top: 20px;
+    position: relative;
+    width: 45%;
+    height:30%;
+    margin-top: 10%;
+    left:25%;
 }
 
 .Officials .frame-1 p{
 
     font-size: 14px;
-    padding: 10px 0px 0px 20px;
+    padding: 5% 0% 0% 8%;
 }
 
 
 .Officials .frame-2{
     
-    width: 269px;
-    height: 275px;
+      
+    position:relative;
+    width: 58vw;
+    height:50vh;
+    left:15vw;
     background-color:#C4C4C4;
     border-radius: 6px;
-    margin-top: 20px;
-    transform: translateX(0px);
-    
 
 }
 
 .Officials .frame-2 img{
 
-    width: 116px;
-    height: 116px;
-    transform: translateX(80px);
-    margin-top: 20px;
+    
+    position: relative;
+    width: 45%;
+    height:30%;
+    margin-top: 10%;
+    left:25%;
 }
 
 .Officials .frame-2 p{
 
+    
     font-size: 14px;
-    padding: 10px 0px 0px 20px;
+    padding: 5% 0% 0% 8%;
 }
 
 
 .Officials .frame-3{
     
-    position: relative;
-    top:70vmin;
-    left:-550%;
-    width:500%;
-    height: 45vh;
+ 
+    position:relative;
+    width: 58vw;
+    height:50vh;
+    left:15vw;
+    margin-top:20vh;
     background-color:#C4C4C4;
     border-radius: 6px;
-  
-    
 
 }
 
 .Officials .frame-3 img{
 
-    width: 116px;
-    height: 116px;
-    transform: translateX(80px);
-    margin-top: 20px;
+    position: relative;
+    width: 45%;
+    height:30%;
+    margin-top: 10%;
+    left:25%;
 }
 
 .Officials .frame-3 p{
 
+   
     font-size: 14px;
-    padding: 10px 0px 0px 20px;
+    padding: 5% 0% 0% 8%;
 }
 
 
 
 .Officials .frame-4{
     
-    
-    position: relative;
-    top:140vmin;
-    left:-1080%;
-    width:500%;
-    height: 45vh;
+    position:relative;
+    width: 58vw;
+    height:50vh;
+    left:15vw;
+    margin-top:20vh;
     background-color:#C4C4C4;
     border-radius: 6px;
-  
+    
 
 }
 
 .Officials .frame-4 img{
 
-    width: 116px;
-    height: 116px;
-    transform: translateX(80px);
-    margin-top: 20px;
+    position: relative;
+    width: 45%;
+    height:30%;
+    margin-top: 10%;
+    left:25%;
 }
 
 .Officials .frame-4 p{
-
+   
     font-size: 14px;
-    padding: 10px 0px 0px 20px;
+    padding: 5% 0% 0% 8%;
 }
 
 
 .Officials .frame-5{
     
-    position: relative;
-    top:220vmin;
-    left:-1580%;
-    width:500%;
-    height: 45vh;
+
+    position:relative;
+    width: 58vw;
+    height:50vh;
+    left:15vw;
+    margin-top:20vh;
     background-color:#C4C4C4;
     border-radius: 6px;
+    
     
 
 }
 
 .Officials .frame-5 img{
 
-    width: 116px;
-    height: 116px;
-    transform: translateX(80px);
-    margin-top: 20px;
+    position: relative;
+    width: 45%;
+    height:30%;
+    margin-top: 10%;
+    left:25%;
 }
 
 .Officials .frame-5 p{
 
     font-size: 14px;
-    padding: 10px 0px 0px 20px;
+    padding: 5% 0% 0% 8%;
 }
 
 .Officials .frame-6{
 
-    position: relative;
-    margin-top: 215vmin;
-    left:-110%;
-    width:500%;
-    height: 45vh;
+    position:relative;
+    width: 58vw;
+    height:50vh;
+    left:15vw;
+    margin-top:5vh;
     background-color:#C4C4C4;
     border-radius: 6px;
     
@@ -2027,90 +2097,83 @@
 
 .Officials .frame-6 img{
 
-    width: 116px;
-    height: 116px;
-    transform: translateX(80px);
-    margin-top: 20px;
+    
+    position: relative;
+    width: 45%;
+    height:30%;
+    margin-top: 10%;
+    left:25%;
 }
 
 .Officials .frame-6 p{
 
     font-size: 14px;
-    padding: 10px 0px 0px 20px;
+    padding: 5% 0% 0% 8%;
 }
 
 .Officials .frame-7{
-    
-    width: 259px;
-    height: 290px;
+
+    position:relative;
+    width: 58vw;
+    height:50vh;
+    left:15vw;
+    margin-top:20vh;
     background-color:#C4C4C4;
     border-radius: 6px;
-    transform: translateY(-1075px);
-    margin-left: 400px;
     
 
 }
 
 .Officials .frame-7 img{
 
-    width: 116px;
-    height: 116px;
-    transform: translateX(80px);
-    margin-top: 20px;
+    position: relative;
+    width: 45%;
+    height:30%;
+    margin-top: 10%;
+    left:25%;
 }
 
 .Officials .frame-7 p{
 
+    
     font-size: 14px;
-    padding: 10px 0px 0px 20px;
+    padding: 5% 0% 0% 8%;
+
 }
 
 
 .Officials .frame-8{
     
-    width: 259px;
-    height: 290px;
+     
+    position:relative;
+    width: 58vw;
+    height:50vh;
+    left:15vw;
+    margin-top:20vh;
     background-color:#C4C4C4;
     border-radius: 6px;
-    transform: translateY(-1365px);
-    margin-left: 720px;
-    
 
 }
 
 .Officials .frame-8 img{
 
-    width: 116px;
-    height: 116px;
-    transform: translateX(80px);
-    margin-top: 20px;
+    position: relative;
+    width: 45%;
+    height:30%;
+    margin-top: 10%;
+    left:25%;
 }
 
 .Officials .frame-8 p{
-
+    
     font-size: 14px;
-    padding: 10px 0px 0px 20px;
+    padding: 5% 0% 0% 8%;
 }
 
 .wrapper-2,.wrapper-3{
 
-    margin-top: 50px;
+    margin-top: 50%;
 }
-
-.Officials{
-    
-    position: relative;
-    top:10vmin;
-    left:10%;
-    width:85%;
-    height:500vh;
-    background-color: #192F59;
-    border-radius:8px;
-}
-
-
-
-
 
 
 
