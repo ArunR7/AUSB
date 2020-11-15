@@ -1236,6 +1236,173 @@
     margin-top: 50%;
 }
 
+/* Zonal Section */
+
+.zonal{
+    
+    
+    position: relative;
+    top:10vh;
+    left:8vw;
+    width: 80vw;
+    height: 100vh;
+    background-color: #192F59;
+    border-radius:8px;
+}
+
+.z1{
+
+    position: relative;
+    background-color: #FFCC66;
+    height: 7%;    
+    width: 10%;
+    color: #192F59;
+    top:5%;
+    left: 5%;
+    
+}
+
+.z1 P{
+
+    padding: 2% 0% 0% 20%;
+    font-weight: 550;
+    font-size: 18px;
+}
+
+.zonal .z1 hr{
+
+    position: relative;
+    background-color: #FFCC66;
+    top: 10%;
+    border-width:2px;
+    width: 70vw;
+
+}
+
+
+.zonal .zonal-links p{
+
+    color: #FFCC66;
+    width: 100vw;
+    font-weight:500;
+    font-size: 18px;
+    padding: 15%;
+}
+
+/* Inter Zonal Section */
+
+.IIZ1{
+    
+    position: relative;
+    top:10vh;
+    left:8vw;
+    width: 80vw;
+    height: 100vh;
+    background-color: #192F59;
+    border-radius:8px;
+}
+
+.IZ1{
+
+    position: relative;
+    top:7vh;
+    left:5%;
+    background-color: #FFCC66;
+    height: 7%;    
+    width: 15%;
+    color: #192F59;
+    
+    
+}
+
+.IZ1 P{
+
+    padding: 2% 0% 0% 25%;
+    font-weight: 550;
+    font-size: 18px;
+}
+
+.IIZ1 .IZ1 hr{
+    
+    position: relative;
+    top:8%;
+    background-color: #FFCC66;
+    width: 60vw;
+    border-width:2px;
+}
+
+
+.IIZ1 .Interzonal-links p{
+
+    color: #FFCC66;
+    width: 100vw;
+    font-weight:500;
+    font-size: 18px;
+    padding: 10%;
+}
+
+
+/* Inter University Section*/
+
+
+.IU1{
+    
+    position: relative;
+    top:10vh;
+    left:10vw;
+    width: 80vw;
+    height: 100vh;
+    background-color: #192F59;
+    border-radius:8px;
+}
+
+.IUD1{
+
+    position: relative;
+    top:5%;
+    left:5%;
+    background-color: #FFCC66;
+    height: 7%;    
+    width: 15vw;
+    color: #192F59;
+    
+}
+
+.IUD1 P{
+
+    padding: 2% 0% 0% 25%;
+    font-weight: 550;
+    font-size: 18px;
+}
+
+.IU1 .IUD1 hr{
+   
+    position: relative;
+    background-color: #FFCC66;
+    border-width: 2px;
+    top: 7%;
+    left:15%;
+    width:60vw;
+}
+
+.IU1 .Inter-links p{
+    
+    color: #FFCC66;
+    width: 100vh;
+    font-size:18px;
+    padding: 10%;
+
+
+}
+
+.IU1 .Inter-links {
+
+    margin-top: 20%;
+}
+
+
+
+
 
 /*  Media Query 576px */
 
@@ -2174,6 +2341,182 @@
 
     margin-top: 50%;
 }
+
+
+/* Zonal Section */
+
+.zonal{
+    
+    
+    position: relative;
+    top:10vh;
+    left:8vw;
+    width: 80vw;
+    height: 100vh;
+    background-color: #192F59;
+    border-radius:8px;
+}
+
+.z1{
+
+    position: relative;
+    background-color: #FFCC66;
+    height: 7%;    
+    width: 25%;
+    color: #192F59;
+    top:5%;
+    left: 5%;
+    
+}
+
+.z1 P{
+
+    padding: 2% 0% 0% 20%;
+    font-weight: 550;
+    font-size: 18px;
+}
+
+.zonal .z1 hr{
+
+    position: relative;
+    background-color: #FFCC66;
+    top: 10%;
+    border-width:2px;
+    width: 70vw;
+    visibility: hidden;
+
+}
+
+
+.zonal .zonal-links p{
+
+    color: #FFCC66;
+    width: 80vw;
+    font-weight:500;
+    font-size: 18px;
+    padding: 15%;
+}
+
+
+
+/* Inter Zonal Section */
+
+.IIZ1{
+    
+    position: relative;
+    top:10vh;
+    left:8vw;
+    width: 80vw;
+    height: 120vh;
+    background-color: #192F59;
+    border-radius:8px;
+}
+
+.IZ1{
+
+    position: relative;
+    top:7vh;
+    left:5%;
+    background-color: #FFCC66;
+    height: 7%;    
+    width: 50%;
+    color: #192F59;
+    
+    
+}
+
+.IZ1 P{
+
+    padding: 2% 0% 0% 25%;
+    font-weight: 550;
+    font-size: 18px;
+}
+
+.IIZ1 .IZ1 hr{
+    
+    position: relative;
+    top:8%;
+    background-color: #FFCC66;
+    width: 60vw;
+    border-width:2px;
+    visibility: hidden;
+}
+
+
+.IIZ1 .Interzonal-links p{
+
+    color: #FFCC66;
+    width: 60vw;
+    font-weight:500;
+    font-size: 18px;
+    padding: 10%;
+}
+
+/* Inter University Section*/
+
+
+.IU1{
+    
+    position: relative;
+    top:10vh;
+    left:10vw;
+    width: 80vw;
+    height: 100vh;
+    background-color: #192F59;
+    border-radius:8px;
+}
+
+.IUD1{
+
+    position: relative;
+    top:5%;
+    left:5%;
+    background-color: #FFCC66;
+    height: 7%;    
+    width: 45vw;
+    color: #192F59;
+    
+}
+
+.IUD1 P{
+
+    padding: 2% 0% 0% 25%;
+    font-weight: 550;
+    font-size: 18px;
+}
+
+.IU1 .IUD1 hr{
+   
+    position: relative;
+    background-color: #FFCC66;
+    border-width: 2px;
+    top: 7%;
+    left:15%;
+    width:60vw;
+    visibility: hidden;
+    
+}
+
+.IU1 .Inter-links p{
+    
+    color: #FFCC66;
+    width: 45vh;
+    font-size:18px;
+    padding: 10%;
+
+
+}
+
+.IU1 .Inter-links {
+
+    margin-top: 10%;
+}
+
+
+
+
+
+
 
 
 
