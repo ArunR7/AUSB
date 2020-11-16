@@ -1893,6 +1893,329 @@ table td, table th{
 
 }
 
+/* News and Events Section */
+
+.basketball{
+    
+    position: relative;
+    top:10vh;
+    left:10vw;
+    width: 80vw;
+    height: 100vh;
+    background-color: #192F59;
+    border-radius:8px;
+}
+
+.bb1{
+
+    position: relative;
+    top:5%;
+    left:5%;
+    background-color: #FFCC66;
+    height: 7%;    
+    width: 20%;
+    color: #192F59;
+   
+    
+}
+
+.bb1 P{
+
+    padding: 2% 0% 0% 20%;
+    font-weight: 550;
+    font-size: 18px;
+}
+
+.basketball .bb1 hr{
+    
+    position: relative;
+    background-color: #FFCC66;
+    border-width: 2px;
+    width: 60vw;
+    top:5%;
+}
+
+
+.basketball .basketball1 p{
+
+    color: #FFCC66;
+    width: 60vw;
+    font-weight:500;
+    font-size: 18px;
+    padding: 5%;
+}
+
+
+/* Tennis Section */
+
+
+.tennis{
+    
+    position: relative;
+    top:10vh;
+    left:10vw;
+    width: 80vw;
+    height: 300vh;
+    background-color: #192F59;
+    border-radius:8px;
+}
+
+.tt1{
+
+    position: relative;
+    top:5%;
+    left:5%;
+    background-color: #FFCC66;
+    height: 2%;    
+    width: 10%;
+    color: #192F59;
+   
+    
+}
+
+.tt1 P{
+
+    padding: 2% 0% 0% 20%;
+    font-weight: 550;
+    font-size: 18px;
+}
+
+.tennis .tt1 hr{
+    
+    position: relative;
+    background-color: #FFCC66;
+    border-width: 2px;
+    width: 60vw;
+    top:5%;
+}
+
+
+.tennis .tennis1 p{
+
+    color: #FFCC66;
+    width: 60vw;
+    font-weight:500;
+    font-size: 18px;
+    padding: 5%;
+}
+
+
+/* Hockey Section */
+
+
+.Hockey{
+    
+    position: relative;
+    top:10vh;
+    left:10vw;
+    width: 80vw;
+    height: 300vh;
+    background-color: #192F59;
+    border-radius:8px;
+}
+
+.hh1{
+
+    position: relative;
+    top:2%;
+    left:5%;
+    background-color: #FFCC66;
+    height: 2%;    
+    width: 10%;
+    color: #192F59;
+   
+    
+}
+
+.hh1 P{
+
+    padding: 2% 0% 0% 20%;
+    font-weight: 550;
+    font-size: 18px;
+}
+
+.Hockey .tt1 hr{
+    
+    position: relative;
+    background-color: #FFCC66;
+    border-width: 2px;
+    width: 60vw;
+    top:5%;
+}
+
+
+.Hockey .Hockey1 p{
+
+    color: #FFCC66;
+    width: 60vw;
+    font-weight:500;
+    font-size: 18px;
+    padding: 5%;
+}
+
+
+/* Card Design Section */
+
+
+.content .title{
+
+    color:#0063B2;
+    font-size:18px;
+    font-weight:bold;
+}
+
+.card .content .btn1 button{
+
+    color: #0063B2;
+    border: none;
+    outline: none;
+    background-color: white;
+    font-weight: 500;
+    font-size: 16px;
+    padding-top: 25px;
+    cursor: pointer;
+    transition: 0.2s;
+}
+
+.card .content .btn1 button:hover{
+    
+    transform: scale(0.9);
+
+}
+
+
+.card .content .btn1 button span{
+
+    color: #FFCC66;
+}
+
+.card .content .btn2 {
+
+    display: block;
+    text-align: left;
+    margin: 10px 0;
+}
+
+.card .content .btn2 button{
+
+    color: #0063B2;
+    border: none;
+    outline: none;
+    background-color: white;
+    font-weight: 500;
+    font-size: 16px;
+    padding-top: 25px;
+    cursor: pointer;
+    transition: 0.2s;
+}
+
+.card .content .btn2 button:hover{
+
+    transform: scale(0.9);
+}
+
+
+.card .content .btn2 button span{
+
+    color: #FFCC66;
+}
+
+.card .content .btn3 {
+
+    display: block;
+    text-align: left;
+    margin: 10px 0;
+}
+
+.card .content .btn3 button{
+
+    color: #0063B2;
+    border: none;
+    outline: none;
+    background-color: white;
+    font-weight: 500;
+    font-size: 16px;
+    cursor: pointer;
+    transition: 0.2s;
+}
+
+.card .content .btn3 button:hover{
+
+    transform: scale(0.9);
+}
+
+
+.card .content .btn3 button span{
+
+    color: #FFCC66;
+}
+
+.card .content .btn4 {
+
+    display: block;
+    text-align: left;
+    margin: 10px 0;
+}
+
+.card .content .btn4 button{
+
+    color: #0063B2;
+    border: none;
+    outline: none;
+    background-color: white;
+    font-weight: 500;
+    font-size: 16px;
+    padding-top: 25px;
+    cursor: pointer;
+    transition: 0.2s;
+}
+
+.card .content .btn4 button:hover{
+
+    transform: scale(0.9);
+}
+
+
+.card .content .btn4 button span{
+
+    color: #FFCC66;
+}
+
+.card .content .btn5 {
+
+    display: block;
+    text-align: left;
+    margin: 10px 0;
+}
+
+.card .content .btn5 button{
+
+    color: #0063B2;
+    border: none;
+    outline: none;
+    background-color: white;
+    font-weight: 500;
+    font-size: 16px;
+    padding-top: 25px;
+    cursor: pointer;
+    transition: 0.2s;
+}
+
+.card .content .btn5 button:hover{
+
+   transform: scale(0.9);
+}
+
+.card .content .btn5 button span{
+
+    color: #FFCC66;
+}
+
+
+
+
+
+
 
 
 
@@ -1911,6 +2234,177 @@ table td, table th{
         width:0px;
         visibility: hidden;
     }
+
+    /* Hockey Section */
+
+
+.Hockey{
+    
+    position: relative;
+    top:10vh;
+    left:10vw;
+    width: 80vw;
+    height: 300vh;
+    background-color: #192F59;
+    border-radius:8px;
+}
+
+.hh1{
+
+    position: relative;
+    top:2%;
+    left:5%;
+    background-color: #FFCC66;
+    height: 2%;    
+    width: 50%;
+    color: #192F59;
+   
+    
+}
+
+.hh1 P{
+
+    padding: 2% 0% 0% 20%;
+    font-weight: 550;
+    font-size: 18px;
+}
+
+.Hockey .tt1 hr{
+    
+    position: relative;
+    background-color: #FFCC66;
+    border-width: 2px;
+    width: 60vw;
+    top:5%;
+}
+
+
+.Hockey .Hockey1 p{
+
+    color: #FFCC66;
+    width: 60vw;
+    font-weight:500;
+    font-size: 18px;
+    padding: 5%;
+}
+
+
+    
+/* Tennis Section */
+
+
+.tennis{
+    
+    position: relative;
+    top:10vh;
+    left:10vw;
+    width: 80vw;
+    height: 400vh;
+    background-color: #192F59;
+    border-radius:8px;
+}
+
+.tt1{
+
+    position: relative;
+    top:5%;
+    left:5%;
+    background-color: #FFCC66;
+    height: 2%;    
+    width: 50%;
+    color: #192F59;
+   
+    
+}
+
+.tt1 P{
+
+    padding: 2% 0% 0% 20%;
+    font-weight: 550;
+    font-size: 18px;
+}
+
+.tennis .tt1 hr{
+    
+    position: relative;
+    background-color: #FFCC66;
+    border-width: 2px;
+    width: 60vw;
+    top:5%;
+    visibility: hidden;
+}
+
+
+.tennis .tennis1 p{
+
+    color: #FFCC66;
+    width: 60vw;
+    font-weight:500;
+    font-size: 18px;
+    padding: 5%;
+}
+
+
+
+
+    /* News and Events Section */
+
+.basketball{
+    
+    position: relative;
+    top:10vh;
+    left:10vw;
+    width: 80vw;
+    height: 150vh;
+    background-color: #192F59;
+    border-radius:8px;
+}
+
+.bb1{
+
+    position: relative;
+    top:5%;
+    left:5%;
+    background-color: #FFCC66;
+    height: 5%;    
+    width: 50%;
+    color: #192F59;
+   
+    
+}
+
+.bb1 P{
+
+    padding: 2% 0% 0% 20%;
+    font-weight: 550;
+    font-size: 18px;
+}
+
+.basketball .bb1 hr{
+    
+    position: relative;
+    background-color: #FFCC66;
+    border-width: 2px;
+    width: 60vw;
+    top:5%;
+    visibility:hidden;
+}
+
+
+.basketball .basketball1 p{
+
+    color: #FFCC66;
+    width: 60vw;
+    font-weight:500;
+    font-size: 18px;
+    padding: 5%;
+}
+
+
+
+
+
+
 
     /* Ground Background */
 
