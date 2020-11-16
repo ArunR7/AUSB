@@ -615,10 +615,10 @@
 .Zone-wise .colleges hr{
     
     position: relative;
-    top:0vmin;
+    top: -5%;
     color: #FFCC66;
     position: relative;
-    width: 300%;
+    width: 60vw;
     background-color: #FFCC66;
     border-width: 2px;
 
@@ -2210,7 +2210,6 @@ table td, table th{
 
     color: #FFCC66;
 }
-
 
 
 
