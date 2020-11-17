@@ -117,7 +117,7 @@
      <p>Alumni Gallery</p>
      <hr>
      <div  class="Interzonal-links" id="content"></div>
-     <div class="Interzonal-links" id="first" >
+     <div class="Interzonal-links" id="first" style="display: none;" >
     <div class="photo">
         <img src="images/Srikanth.png" width="245px" height="254px">
 
@@ -204,15 +204,12 @@
            autoplayHoverPause:true,
     
        });
-       function myFunction()
-       { console.log("Hi vid");
-           document.getElementById("arunraj").innerHTML=document.getElementById(active).innerHTML;
-           if(active!="second")
-           active="second";
-           else
-           active="first";
-       }
-       
+       function myFunction(active)
+     { console.log("Hi vid");
+         document.getElementById("content").innerHTML=document.getElementById(active).innerHTML;
+        
+     }
+     myFunction('first');
     </script>
     
     

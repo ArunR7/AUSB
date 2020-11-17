@@ -26,7 +26,7 @@
 
     padding:20px;
     color:white;
-    font-size: 24px;
+    font-size: 1em;
     font-weight:600;
 }
 
@@ -41,7 +41,7 @@
 
 .nav-item .nav-link{
     color:white;
-    font-size: 18px;
+    font-size: 1em;
     font-weight:400;
     
 }
@@ -69,7 +69,7 @@
 
     position: relative;
     left:20%;
-    font-size: 1rem;
+    font-size: 1em;
 }
 
 .carousel-item{
@@ -116,12 +116,12 @@
 .Zonal ul li{
     color:#FFCC66;
     list-style-type: none;
-    padding:10px;
+    padding:3%;
 }
 
 .Zonal h2{
 
-    font-size: 18px;
+    font-size: 1em;
     font-weight: 600;
     color: white;
     padding-left: 30%;
@@ -148,13 +148,13 @@
     display:block;
     list-style-type: none;
     color:#FFCC66;
-    padding:10px;
+    padding:2.5%;
 }
 
 .Latest-news ul li:nth-child(1){
 
     color:white;
-    font-size: 22px;
+    font-size: 1em;
     font-weight:550;
 }
 
@@ -177,14 +177,14 @@
 
     list-style-type: none;
     color:#FFCC66;
-    padding:10px;
+    padding:2%;
 
 }
 
 .Screen-reader ul li:nth-child(1){
 
     color:white;
-    font-size: 22px;
+    font-size: 1em;
     font-weight:550;
 
 }
@@ -203,7 +203,7 @@
 
     position: relative;
     color:white;
-    font-size:24px;
+    font-size:1.5em;
     font-weight:bold;
     top:25%;
     left:45%;
@@ -213,7 +213,7 @@
 .card img{
     width: 100%;
     height: auto;
-    padding: 20px;
+    padding: 7%;
 }
 
 /* InterZonal Section */
@@ -241,12 +241,12 @@
 .InterZonal ul li{
     color:#FFCC66;
     list-style-type: none;
-    padding:10px;
+    padding:4%;
 }
 
 .InterZonal h2{
 
-    font-size: 18px;
+    font-size: 1em;
     font-weight: 600;
     color: white;
     padding-left: 30%;
@@ -277,12 +277,12 @@
 .InterUniversity  ul li{
     color:#FFCC66;
     list-style-type: none;
-    padding:10px;
+    padding:2%;
 }
 
 .InterUniversity h2{
 
-    font-size: 18px;
+    font-size: 1em;
     font-weight: 600;
     color: white;
     padding-left: 30%;
@@ -312,12 +312,12 @@
     color: white;
     top:10vmin;
     left: 21%;
-    font-size:18px;
+    font-size:1em;
     font-weight: 600;
     color: #FFCC66;
     width:100%;
     height:auto;
-    padding: 5px;
+    padding: 2%;
 
    
 }
@@ -330,14 +330,14 @@
     top:10vmin;
     width:58%;
     height:auto;
-    padding: 5px;
+    padding: 0.1%;
     
-
-    
-
 }
 
+
+
 .footer{
+
     background-color:#192F59;
     width:100%;
     height:10vh;
@@ -357,30 +357,31 @@
 .footer ul li{
    
     list-style-type: none;
-    padding: 50px;
+    padding: 4%;
     color: white;
-    font-size: 18px;
+    font-size: 1em;
     font-weight: 550;
     
 }
 
 .footer ul p{
+    
     display: block;
     color: #FFCC66;
-    
-
     
 }
 
 .line{
-    padding:60px;
+   
+    margin-top:1%;
+    padding:3%;
     color: white;
 }
 
 
 .line2{
 
-      
+    margin-top:1%;
     color: #FFCC66;
     border: 1px solid #FFCC66;
 
@@ -415,22 +416,10 @@
 
     padding: 5% 0 0 5%;
     font-weight: 550;
-    font-size: 18px;
+    font-size: 1em;
 }
 
-.Message .heading hr{
-   
 
-    color: #FFCC66;
-    width: 100%;
-    border-width: 3px;
-    background-color: #FFCC66;
-    position: relative;
-    left:100%;
-    top:1%;
-    width:350%;
-    
-}
 
 .Message .heading img{
 
@@ -531,23 +520,13 @@
 
 .ausb2 P{
 
-    padding: 10px 0px 0px 45px;
+    padding: 2% 0% 0% 20%;
     font-weight: 550;
-    font-size: 18px;
+    font-size: 1em;
     
 }
 
-.ausb1 .ausb2 hr{
 
-
-    position: relative;
-    border-width: 3px;
-    left:100%;
-    top:-5%;
-    background-color: #FFCC66;
-    width: 350%;
-    
-}
 
 
 .Organisation H5{
@@ -558,7 +537,7 @@
     top:10%;
     color:white;
     font-weight:600;
-    font-size: 18px;
+    font-size: 1.5em;
     width:150vw;
   
  
@@ -573,7 +552,7 @@
     color: #FFCC66;
     width: 80vw;
     font-weight:300;
-    font-size: 18px;
+    font-size: 1em;
   
     
   
@@ -609,20 +588,10 @@
 
     padding: 5% 0% 0% 10%;
     font-weight: 550;
-    font-size: 18px;
+    font-size: 1em;
 }
 
-.Zone-wise .colleges hr{
-    
-    position: relative;
-    top: -5%;
-    color: #FFCC66;
-    position: relative;
-    width: 60vw;
-    background-color: #FFCC66;
-    border-width: 2px;
 
-}
 
 .colleges ul li{
     
@@ -937,20 +906,13 @@
 .director P{
 
     position: relative;
-    padding: 10px 0px 0px 35px;
+    padding: 2% 0% 0% 20%;
     font-weight: 550;
-    font-size: 18px;
+    font-size: 1em;
     width:500%;
 }
 
-.Physical .director hr{
-   
-    color: #FFCC66;
-    position: relative;
-    width: 300%;
-    background-color: #FFCC66;
-    border-width: 2px;
-}
+
 
 .director .link{
     
@@ -989,17 +951,9 @@
 
     padding: 5% 0% 0% 20%;
     font-weight: 550;
-    font-size: 18px;
+    font-size: 1em;
 }
 
-.Officials .faculities hr{
-
-    color: #FFCC66;
-    position: relative;
-    width: 70vw;
-    background-color: #FFCC66;
-    border-width: 2px;
-}
 
 
 .Officials .frame-1{
@@ -1025,7 +979,7 @@
 
 .Officials .frame-1 p{
 
-    font-size: 14px;
+    font-size: 1em;
     padding: 5% 0% 0% 8%;
 }
 
@@ -1054,7 +1008,7 @@
 .Officials .frame-2 p{
 
     
-    font-size: 14px;
+    font-size: 1em;
     padding: 5% 0% 0% 8%;
 }
 
@@ -1084,7 +1038,7 @@
 .Officials .frame-3 p{
 
    
-    font-size: 14px;
+    font-size: 1em;
     padding: 5% 0% 0% 8%;
 }
 
@@ -1115,7 +1069,7 @@
 
 .Officials .frame-4 p{
    
-    font-size: 14px;
+    font-size: 1em;
     padding: 5% 0% 0% 8%;
 }
 
@@ -1146,7 +1100,7 @@
 
 .Officials .frame-5 p{
 
-    font-size: 14px;
+    font-size: 1em;
     padding: 5% 0% 0% 8%;
 }
 
@@ -1175,7 +1129,7 @@
 
 .Officials .frame-6 p{
 
-    font-size: 14px;
+    font-size: 1em;
     padding: 5% 0% 0% 8%;
 }
 
@@ -1204,7 +1158,7 @@
 .Officials .frame-7 p{
 
     
-    font-size: 14px;
+    font-size: 1em;
     padding: 5% 0% 0% 8%;
 
 }
@@ -1234,7 +1188,7 @@
 
 .Officials .frame-8 p{
     
-    font-size: 14px;
+    font-size: 1em;
     padding: 5% 0% 0% 8%;
 }
 
@@ -1273,18 +1227,10 @@
 
     padding: 2% 0% 0% 20%;
     font-weight: 550;
-    font-size: 18px;
+    font-size: 1em;
 }
 
-.zonal .z1 hr{
 
-    position: relative;
-    background-color: #FFCC66;
-    top: 10%;
-    border-width:2px;
-    width: 70vw;
-
-}
 
 
 .zonal .zonal-links p{
@@ -1292,7 +1238,7 @@
     color: #FFCC66;
     width: 100vw;
     font-weight:500;
-    font-size: 18px;
+    font-size: 1em;
     padding: 15%;
 }
 
@@ -1326,17 +1272,10 @@
 
     padding: 2% 0% 0% 25%;
     font-weight: 550;
-    font-size: 18px;
+    font-size: 1em;
 }
 
-.IIZ1 .IZ1 hr{
-    
-    position: relative;
-    top:8%;
-    background-color: #FFCC66;
-    width: 60vw;
-    border-width:2px;
-}
+
 
 
 .IIZ1 .Interzonal-links p{
@@ -1344,7 +1283,7 @@
     color: #FFCC66;
     width: 100vw;
     font-weight:500;
-    font-size: 18px;
+    font-size: 1em;
     padding: 10%;
 }
 
@@ -1379,24 +1318,15 @@
 
     padding: 2% 0% 0% 25%;
     font-weight: 550;
-    font-size: 18px;
+    font-size: 1em;
 }
 
-.IU1 .IUD1 hr{
-   
-    position: relative;
-    background-color: #FFCC66;
-    border-width: 2px;
-    top: 7%;
-    left:15%;
-    width:60vw;
-}
 
 .IU1 .Inter-links p{
     
     color: #FFCC66;
     width: 100vh;
-    font-size:18px;
+    font-size:1em;
     padding: 10%;
 
 
@@ -1437,17 +1367,9 @@
 
     padding: 2% 0% 0% 20%;
     font-weight: 550;
-    font-size: 18px;
+    font-size: 1em;
 }
 
-.NN1 .NE1 hr{
-    
-    position: relative;
-    background-color: #FFCC66;
-    border-width: 2px;
-    width: 60vw;
-    top:5%;
-}
 
 
 .NN1 .Interzonal-links p{
@@ -1455,7 +1377,7 @@
     color: #FFCC66;
     width: 100vw;
     font-weight:500;
-    font-size: 18px;
+    font-size: 1em;
     padding: 5%;
 }
 
@@ -1498,7 +1420,7 @@
     display:flex;
     justify-content: center;
     padding:2%;
-    font-size:18px;
+    font-size:1em;
     font-weight: 600;
 }
 
@@ -1547,7 +1469,7 @@ table td, table th{
     display:flex;
     justify-content: center;
     padding: 1%;
-    font-size:18px;
+    font-size:1em;
     font-weight: 600;
 }
 
@@ -1624,24 +1546,16 @@ table td, table th{
 
     padding: 2% 0% 0% 0%;
     font-weight: 550;
-    font-size: 18px;
+    font-size: 1em;
 }
 
-.ausb4 .ausb5 hr{
-   
-    position: relative;
-    background-color: #FFCC66;
-    border-width: 2px;
-    top: -10%;
-    width: 80vw;
-}
 
 
 .organisation H5{
 
     color:white;
     font-weight:600;
-    font-size: 18px;
+    font-size: 1em;
     width: 100%;
     margin-top: 10%;
 
@@ -1653,7 +1567,7 @@ table td, table th{
     color: #FFCC66;
     width: 80vw;
     font-weight:300;
-    font-size: 16px;
+    font-size: 1em;
    
   
 }
@@ -1690,17 +1604,9 @@ table td, table th{
 
     padding: 2% 0% 0% 20%;
     font-weight: 550;
-    font-size: 18px;
+    font-size: 1em;
 }
 
-.Q1 .Q2 hr{
-    
-    position:relative;
-    background-color: #FFCC66;
-    border-width: 2px; 
-    top: 8%;
-    width:60vw;
-}
 
 
 .Q1 .Interzonal-links p{
@@ -1708,7 +1614,7 @@ table td, table th{
     color: #FFCC66;
     width:100vw;
     font-weight:500;
-    font-size: 18px;
+    font-size: 1em;
     padding: 5%;
 }
 
@@ -1766,17 +1672,10 @@ table td, table th{
 
     padding: 2% 0% 0% 20%;
     font-weight: 550;
-    font-size: 18px;
+    font-size: 1em;
 }
 
-.IMP1 .IM1 hr{
-   
-    position: relative;
-    background-color: #FFCC66;
-    top: 8%;
-    width: 60vw;
 
-}
 
 
 .IMP1 .Interzonal-links p{
@@ -1784,7 +1683,7 @@ table td, table th{
     color: #FFCC66;
     width: 100vw;
     font-weight:500;
-    font-size: 18px;
+    font-size: 1em;
     padding: 5%;
 }
 
@@ -1818,18 +1717,10 @@ table td, table th{
 
     padding: 2% 0% 0% 20%;
     font-weight: 550;
-    font-size: 18px;
+    font-size: 1em;
 }
 
-.GG1 .G1 hr{
-   
-    position: relative;
-    top:7%;
-    width: 60vw;
-    background-color: #FFCC66;
-    border-width: 2px;
 
-}
 
 
 .GG1 .Interzonal-links p{
@@ -1837,7 +1728,7 @@ table td, table th{
     color: #FFCC66;
     width: 65vw;
     font-weight:500;
-    font-size: 18px;
+    font-size: 1em;
     padding: 5%;
   
 }
@@ -1877,7 +1768,7 @@ table td, table th{
      
     position: relative;
     color:white;
-    font-size:24px;
+    font-size:1.5em;
     font-weight:bold;
     top:25%;
 
@@ -1887,7 +1778,7 @@ table td, table th{
 
     position: relative;
     color:white;
-    font-size:24px;
+    font-size:1.5em;
     font-weight:bold;
     top:25%;
 
@@ -1923,17 +1814,9 @@ table td, table th{
 
     padding: 2% 0% 0% 20%;
     font-weight: 550;
-    font-size: 18px;
+    font-size: 1em;
 }
 
-.basketball .bb1 hr{
-    
-    position: relative;
-    background-color: #FFCC66;
-    border-width: 2px;
-    width: 60vw;
-    top:5%;
-}
 
 
 .basketball .basketball1 p{
@@ -1941,7 +1824,7 @@ table td, table th{
     color: #FFCC66;
     width: 60vw;
     font-weight:500;
-    font-size: 18px;
+    font-size: 1em;
     padding: 5%;
 }
 
@@ -1977,16 +1860,7 @@ table td, table th{
 
     padding: 2% 0% 0% 20%;
     font-weight: 550;
-    font-size: 18px;
-}
-
-.tennis .tt1 hr{
-    
-    position: relative;
-    background-color: #FFCC66;
-    border-width: 2px;
-    width: 60vw;
-    top:5%;
+    font-size: 1em;
 }
 
 
@@ -1995,7 +1869,7 @@ table td, table th{
     color: #FFCC66;
     width: 60vw;
     font-weight:500;
-    font-size: 18px;
+    font-size: 1em;
     padding: 5%;
 }
 
@@ -2031,17 +1905,9 @@ table td, table th{
 
     padding: 2% 0% 0% 20%;
     font-weight: 550;
-    font-size: 18px;
+    font-size: 1em;
 }
 
-.Hockey .tt1 hr{
-    
-    position: relative;
-    background-color: #FFCC66;
-    border-width: 2px;
-    width: 60vw;
-    top:5%;
-}
 
 
 .Hockey .Hockey1 p{
@@ -2049,7 +1915,7 @@ table td, table th{
     color: #FFCC66;
     width: 60vw;
     font-weight:500;
-    font-size: 18px;
+    font-size: 1em;
     padding: 5%;
 }
 
@@ -2060,7 +1926,7 @@ table td, table th{
 .content .title{
 
     color:#0063B2;
-    font-size:18px;
+    font-size:1em;
     font-weight:bold;
 }
 
@@ -2071,7 +1937,7 @@ table td, table th{
     outline: none;
     background-color: white;
     font-weight: 500;
-    font-size: 16px;
+    font-size: 1em;
     padding-top: 25px;
     cursor: pointer;
     transition: 0.2s;
@@ -2103,7 +1969,7 @@ table td, table th{
     outline: none;
     background-color: white;
     font-weight: 500;
-    font-size: 16px;
+    font-size: 1em;
     padding-top: 25px;
     cursor: pointer;
     transition: 0.2s;
@@ -2134,7 +2000,7 @@ table td, table th{
     outline: none;
     background-color: white;
     font-weight: 500;
-    font-size: 16px;
+    font-size: 1em;
     cursor: pointer;
     transition: 0.2s;
 }
@@ -2164,7 +2030,7 @@ table td, table th{
     outline: none;
     background-color: white;
     font-weight: 500;
-    font-size: 16px;
+    font-size: 1em;
     padding-top: 25px;
     cursor: pointer;
     transition: 0.2s;
@@ -2195,7 +2061,7 @@ table td, table th{
     outline: none;
     background-color: white;
     font-weight: 500;
-    font-size: 16px;
+    font-size: 1em;
     padding-top: 25px;
     cursor: pointer;
     transition: 0.2s;
@@ -2276,16 +2142,7 @@ table td, table th{
 
     padding: 2% 0% 0% 20%;
     font-weight: 550;
-    font-size: 18px;
-}
-
-.Hockey .tt1 hr{
-    
-    position: relative;
-    background-color: #FFCC66;
-    border-width: 2px;
-    width: 60vw;
-    top:5%;
+    font-size: 1em;
 }
 
 
@@ -2294,7 +2151,7 @@ table td, table th{
     color: #FFCC66;
     width: 60vw;
     font-weight:500;
-    font-size: 18px;
+    font-size: 1em;
     padding: 5%;
 }
 
@@ -2331,17 +2188,7 @@ table td, table th{
 
     padding: 2% 0% 0% 20%;
     font-weight: 550;
-    font-size: 18px;
-}
-
-.tennis .tt1 hr{
-    
-    position: relative;
-    background-color: #FFCC66;
-    border-width: 2px;
-    width: 60vw;
-    top:5%;
-    visibility: hidden;
+    font-size: 1em;
 }
 
 
@@ -2350,7 +2197,7 @@ table td, table th{
     color: #FFCC66;
     width: 60vw;
     font-weight:500;
-    font-size: 18px;
+    font-size: 1em;
     padding: 5%;
 }
 
@@ -2387,18 +2234,9 @@ table td, table th{
 
     padding: 2% 0% 0% 20%;
     font-weight: 550;
-    font-size: 18px;
+    font-size: 1em;
 }
 
-.basketball .bb1 hr{
-    
-    position: relative;
-    background-color: #FFCC66;
-    border-width: 2px;
-    width: 60vw;
-    top:5%;
-    visibility:hidden;
-}
 
 
 .basketball .basketball1 p{
@@ -2406,7 +2244,7 @@ table td, table th{
     color: #FFCC66;
     width: 60vw;
     font-weight:500;
-    font-size: 18px;
+    font-size: 1em;
     padding: 5%;
 }
 
@@ -2436,7 +2274,7 @@ table td, table th{
 
     position: relative;
     color:white;
-    font-size:24px;
+    font-size:1.5em;
     font-weight:bold;
     top:25%;
     left:30%;
@@ -2447,7 +2285,7 @@ table td, table th{
      
     position: relative;
     color:white;
-    font-size:24px;
+    font-size: 1.5em;
     font-weight:bold;
     top:5%;
 
@@ -2457,7 +2295,7 @@ table td, table th{
 
     position: relative;
     color:white;
-    font-size:24px;
+    font-size: 1.5em;
     font-weight:bold;
     top:20%;
     left:40%
@@ -2487,13 +2325,13 @@ table td, table th{
 
     padding:20px;
     color:white;
-    font-size: 18px;
+    font-size: 1em;
     font-weight:600;
 }
 
 .nav-item .nav-link{
     color:white;
-    font-size: 16px;
+    font-size: 1em;
     font-weight:400;
 }
 
@@ -2593,6 +2431,11 @@ table td, table th{
     
 }
 
+.hand{
+    position: absolute;
+    
+}
+
 .hand-paragraph h2{
     
     height: 0px;
@@ -2633,7 +2476,7 @@ table td, table th{
     list-style-type: none;
     padding: 5px;
     color: white;
-    font-size: 18px;
+    font-size: 1em;
     font-weight: 550;
     
 }
@@ -2707,25 +2550,18 @@ table td, table th{
     position: relative;
     left:-5%;
     top:0%;
-    font-size:8px;
+    font-size:1em;
        
 }
 
 .Message .heading span ul li:nth-child(6){
 
 
-    font-size:13px;
+    font-size:1em;
 
 }
 
-.Message .heading hr{
-   
 
-    height: 0px;
-    width: 0px;
-    visibility: hidden;
-    
-}
 
 
 .ausb1{
@@ -2759,17 +2595,12 @@ table td, table th{
 
     padding: 10px 0px 0px 45px;
     font-weight: 550;
-    font-size: 14px;
+    font-size: 1em;
     
 }
 
-.ausb1 .ausb2 hr{
 
 
-    visibility: hidden;
-
-    
-}
 
 
 .Organisation H5{
@@ -2780,7 +2611,7 @@ table td, table th{
     top:10%;
     color:white;
     font-weight:600;
-    font-size: 18px;
+    font-size: 1em;
     width:400;
   
  
@@ -2795,7 +2626,7 @@ table td, table th{
     color: #FFCC66;
     width: 500%;
     font-weight:300;
-    font-size: 18px;
+    font-size: 1em;
   
 }
 
@@ -2827,20 +2658,10 @@ table td, table th{
 
     padding: 5% 0% 0% 5%;
     font-weight: 550;
-    font-size: 18px;
+    font-size: 1em;
 }
 
-.Zone-wise .colleges hr{
-    
-    
-    color: #FFCC66;
-    position: relative;
-    width: 300%;
-    background-color: #FFCC66;
-    border-width: 2px;
-    visibility: hidden;
 
-}
 
 .colleges ul li{
     
@@ -3098,16 +2919,10 @@ table td, table th{
     position: relative;
     padding: 10px 0px 0px 35px;
     font-weight: 550;
-    font-size: 18px;
+    font-size: 1em;
     width:500%;
 }
 
-.Physical .director hr{
-   
-    width:0px;
-    height: 0px;
-    visibility: hidden;
-}
 
 .director .link{
     
@@ -3146,18 +2961,10 @@ table td, table th{
 
     padding: 5% 0% 0% 20%;
     font-weight: 550;
-    font-size: 18px;
+    font-size: 1em;
 }
 
-.Officials .faculities hr{
 
-    color: #FFCC66;
-    position: relative;
-    width: 70vw;
-    background-color: #FFCC66;
-    border-width: 2px;
-    visibility: hidden;
-}
 
 
 .Officials .frame-1{
@@ -3183,7 +2990,7 @@ table td, table th{
 
 .Officials .frame-1 p{
 
-    font-size: 14px;
+    font-size: 1em;
     padding: 5% 0% 0% 8%;
 }
 
@@ -3213,7 +3020,7 @@ table td, table th{
 .Officials .frame-2 p{
 
     
-    font-size: 14px;
+    font-size: 1em;
     padding: 5% 0% 0% 8%;
 }
 
@@ -3243,7 +3050,7 @@ table td, table th{
 .Officials .frame-3 p{
 
    
-    font-size: 14px;
+    font-size: 1em;
     padding: 5% 0% 0% 8%;
 }
 
@@ -3273,7 +3080,7 @@ table td, table th{
 
 .Officials .frame-4 p{
    
-    font-size: 14px;
+    font-size: 1em;
     padding: 5% 0% 0% 8%;
 }
 
@@ -3304,7 +3111,7 @@ table td, table th{
 
 .Officials .frame-5 p{
 
-    font-size: 14px;
+    font-size: 1em;
     padding: 5% 0% 0% 8%;
 }
 
@@ -3333,7 +3140,7 @@ table td, table th{
 
 .Officials .frame-6 p{
 
-    font-size: 14px;
+    font-size: 1em;
     padding: 5% 0% 0% 8%;
 }
 
@@ -3362,7 +3169,7 @@ table td, table th{
 .Officials .frame-7 p{
 
     
-    font-size: 14px;
+    font-size: 1em;
     padding: 5% 0% 0% 8%;
 
 }
@@ -3392,7 +3199,7 @@ table td, table th{
 
 .Officials .frame-8 p{
     
-    font-size: 14px;
+    font-size: 1em;
     padding: 5% 0% 0% 8%;
 }
 
@@ -3432,19 +3239,10 @@ table td, table th{
 
     padding: 2% 0% 0% 20%;
     font-weight: 550;
-    font-size: 18px;
+    font-size: 1em;
 }
 
-.zonal .z1 hr{
 
-    position: relative;
-    background-color: #FFCC66;
-    top: 10%;
-    border-width:2px;
-    width: 70vw;
-    visibility: hidden;
-
-}
 
 
 .zonal .zonal-links p{
@@ -3452,7 +3250,7 @@ table td, table th{
     color: #FFCC66;
     width: 80vw;
     font-weight:500;
-    font-size: 18px;
+    font-size: 1em;
     padding: 15%;
 }
 
@@ -3488,18 +3286,10 @@ table td, table th{
 
     padding: 2% 0% 0% 25%;
     font-weight: 550;
-    font-size: 18px;
+    font-size: 1em;
 }
 
-.IIZ1 .IZ1 hr{
-    
-    position: relative;
-    top:8%;
-    background-color: #FFCC66;
-    width: 60vw;
-    border-width:2px;
-    visibility: hidden;
-}
+
 
 
 .IIZ1 .Interzonal-links p{
@@ -3507,7 +3297,7 @@ table td, table th{
     color: #FFCC66;
     width: 60vw;
     font-weight:500;
-    font-size: 18px;
+    font-size: 1em;
     padding: 10%;
 }
 
@@ -3541,26 +3331,16 @@ table td, table th{
 
     padding: 2% 0% 0% 25%;
     font-weight: 550;
-    font-size: 18px;
+    font-size: 1em;
 }
 
-.IU1 .IUD1 hr{
-   
-    position: relative;
-    background-color: #FFCC66;
-    border-width: 2px;
-    top: 7%;
-    left:15%;
-    width:60vw;
-    visibility: hidden;
-    
-}
+
 
 .IU1 .Inter-links p{
     
     color: #FFCC66;
     width: 45vh;
-    font-size:18px;
+    font-size: 1em;
     padding: 10%;
 
 
@@ -3602,18 +3382,9 @@ table td, table th{
 
     padding: 2% 0% 0% 20%;
     font-weight: 550;
-    font-size: 18px;
+    font-size: 1em;
 }
 
-.NN1 .NE1 hr{
-    
-    position: relative;
-    background-color: #FFCC66;
-    border-width: 2px;
-    width: 60vw;
-    top:5%;
-    visibility: hidden;
-}
 
 
 .NN1 .Interzonal-links p{
@@ -3621,7 +3392,7 @@ table td, table th{
     color: #FFCC66;
     width: 65vw;
     font-weight:500;
-    font-size: 18px;
+    font-size: 1em;
     padding: 5%;
 }
 
@@ -3658,7 +3429,7 @@ table td, table th{
     display:flex;
     justify-content: center;
     padding:2%;
-    font-size:18px;
+    font-size: 1em;
     font-weight: 600;
 }
 
@@ -3707,7 +3478,7 @@ table td, table th{
     display:flex;
     justify-content: center;
     padding: 1%;
-    font-size:18px;
+    font-size: 1em;
     font-weight: 600;
 }
 
@@ -3806,18 +3577,9 @@ table td, table th{
     position: relative;
     padding: 2% 0% 0% 0%;
     font-weight: 550;
-    font-size: 18px;
+    font-size: 1em;
 }
 
-.ausb4 .ausb5 hr{
-   
-    position: relative;
-    background-color: #FFCC66;
-    border-width: 2px;
-    top: -10%;
-    width: 80vw;
-    visibility: hidden;
-}
 
 
 .organisation H5{
@@ -3825,7 +3587,7 @@ table td, table th{
     position: relative;
     color:white;
     font-weight:600;
-    font-size: 18px;
+    font-size: 1em;
     width: 50%;
     margin-top: 10%;
 
@@ -3839,7 +3601,7 @@ table td, table th{
     width: 70vw;
     left:2vw;
     font-weight:300;
-    font-size: 16px;
+    font-size: 1em;
    
   
 }
@@ -3875,18 +3637,9 @@ table td, table th{
 
     padding: 2% 0% 0% 20%;
     font-weight: 550;
-    font-size: 18px;
+    font-size: 1em;
 }
 
-.Q1 .Q2 hr{
-    
-    position:relative;
-    background-color: #FFCC66;
-    border-width: 2px; 
-    top: 8%;
-    width:60vw;
-    visibility: hidden;
-}
 
 
 .Q1 .Interzonal-links p{
@@ -3894,7 +3647,7 @@ table td, table th{
     color: #FFCC66;
     width:100vw;
     font-weight:500;
-    font-size: 18px;
+    font-size: 1em;
     padding: 5%;
 }
 
@@ -3953,18 +3706,9 @@ table td, table th{
 
     padding: 2% 0% 0% 20%;
     font-weight: 550;
-    font-size: 18px;
+    font-size: 1em;
 }
 
-.IMP1 .IM1 hr{
-   
-    position: relative;
-    background-color: #FFCC66;
-    top: 8%;
-    width: 60vw;
-    visibility: hidden;
-
-}
 
 
 .IMP1 .Interzonal-links p{
@@ -3972,7 +3716,7 @@ table td, table th{
     color: #FFCC66;
     width: 70vw;
     font-weight:500;
-    font-size: 18px;
+    font-size: 1em;
     padding: 5%;
 }
 
@@ -4007,18 +3751,7 @@ table td, table th{
 
     padding: 2% 0% 0% 20%;
     font-weight: 550;
-    font-size: 18px;
-}
-
-.GG1 .G1 hr{
-   
-    position: relative;
-    top:7%;
-    width: 60vw;
-    background-color: #FFCC66;
-    border-width: 2px;
-    visibility: hidden;
-
+    font-size: 1em;
 }
 
 
@@ -4027,7 +3760,7 @@ table td, table th{
     color: #FFCC66;
     width: 65vw;
     font-weight:500;
-    font-size: 18px;
+    font-size: 1em;
     padding: 5%;
   
 }
@@ -4059,6 +3792,11 @@ table td, table th{
     position:relative;
     top:-5vh;
     left:35vw;
+}
+
+#nextslide{
+    visibility: hidden;
+  
 }
 
 
@@ -4195,23 +3933,7 @@ table td, table th{
 
 }
 
-
-.Message .heading hr{
-   
-
-    color: #FFCC66;
-    width: 100%;
-    border-width: 3px;
-    background-color: #FFCC66;
-    position: relative;
-    left:100%;
-    top:1%;
-    width:350%;
-    
-}
  
- 
-
 
 
 }
@@ -4311,21 +4033,7 @@ table td, table th{
     top:-50%;
 
 }
-.Message .heading hr{
-   
 
-    color: #FFCC66;
-    width: 100%;
-    border-width: 3px;
-    background-color: #FFCC66;
-    position: relative;
-    left:100%;
-    top:1%;
-    width:350%;
-    
-}
- 
- 
     
     
 }
@@ -4407,22 +4115,7 @@ table td, table th{
     
     }
 
-    .Message .heading hr{
-   
-
-        color: #FFCC66;
-        width: 100%;
-        border-width: 3px;
-        background-color: #FFCC66;
-        position: relative;
-        left:100%;
-        top:1%;
-        width:350%;
-        
-    }
-     
-
-    
+  
 }
 
 }
