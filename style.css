@@ -1445,7 +1445,7 @@ table{
 table td, table th{
 
     border: 2px solid #FFCC66;
-    back
+    background-color:#192F59;
     padding: 0%;
     
 }
@@ -1499,6 +1499,7 @@ table td, table th{
 
     border: 2px solid #FFCC66;
     padding: 1vw;
+    background-color: #192F59;
     
 }
 
@@ -3456,6 +3457,7 @@ table td, table th{
 
     border: 2em solid #FFCC66;
     padding: 20%;
+    background-color: #192F59;
     
 }
 
@@ -3508,6 +3510,7 @@ table td, table th{
 
     border: 2px solid #FFCC66;
     padding: 1vw;
+    background-color: #192F59;
     
 }
 
