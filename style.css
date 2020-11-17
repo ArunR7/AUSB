@@ -2211,6 +2211,17 @@ table td, table th{
     color: #FFCC66;
 }
 
+/* 360 Degree Section */
+
+
+#panorama{
+
+    position: relative;
+    width:10vw;
+    height: 5vh;
+
+}
+
 
 
 
