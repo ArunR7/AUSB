@@ -927,7 +927,7 @@
 .Officials{
     
     position: relative;
-    top:10vmin;
+    top:10vh;
     left:10%;
     width:85vw;
     height:400vh;
@@ -963,7 +963,7 @@
     height:50vh;
     left:25vw;
     background-color:#C4C4C4;
-    border-radius: 6px;
+    border-radius: 2%;
       
 
 }
@@ -979,7 +979,7 @@
 
 .Officials .frame-1 p{
 
-    font-size: 1em;
+    font-size: 1vw;
     padding: 5% 0% 0% 8%;
 }
 
@@ -991,7 +991,7 @@
     height:50vh;
     left:0vw;
     background-color:#C4C4C4;
-    border-radius: 6px;
+    border-radius: 2%;
 
 }
 
@@ -1008,7 +1008,7 @@
 .Officials .frame-2 p{
 
     
-    font-size: 1em;
+    font-size: 1vw;
     padding: 5% 0% 0% 8%;
 }
 
@@ -1022,7 +1022,7 @@
     top:-24.4vw;
     left:20vw;
     background-color:#C4C4C4;
-    border-radius: 6px;
+    border-radius: 2%;
 
 }
 
@@ -1038,8 +1038,8 @@
 .Officials .frame-3 p{
 
    
-    font-size: 1em;
-    padding: 5% 0% 0% 8%;
+    font-size: 1vw;
+    padding: 2% 0% 0% 8%;
 }
 
 
@@ -1053,7 +1053,7 @@
     top:-48.9vw;
     left:40vw;
     background-color:#C4C4C4;
-    border-radius: 6px;
+    border-radius: 2%;
     
 
 }
@@ -1069,7 +1069,7 @@
 
 .Officials .frame-4 p{
    
-    font-size: 1em;
+    font-size: 1vw;
     padding: 5% 0% 0% 8%;
 }
 
@@ -1083,8 +1083,7 @@
     top:-73.2vw;
     left:60vw;
     background-color:#C4C4C4;
-    border-radius: 6px;
-    
+    border-radius: 2%;
     
 
 }
@@ -1100,7 +1099,7 @@
 
 .Officials .frame-5 p{
 
-    font-size: 1em;
+    font-size: 1vw;
     padding: 5% 0% 0% 8%;
 }
 
@@ -1110,7 +1109,7 @@
     width: 18vw;
     height:50vh;
     background-color:#C4C4C4;
-    border-radius: 6px;
+    border-radius: 2%;
     top:-70vw;
     left:10vw;
     
@@ -1129,7 +1128,7 @@
 
 .Officials .frame-6 p{
 
-    font-size: 1em;
+    font-size: 1vw;
     padding: 5% 0% 0% 8%;
 }
 
@@ -1139,7 +1138,7 @@
     width: 18vw;
     height:50vh;
     background-color:#C4C4C4;
-    border-radius: 6px;
+    border-radius: 2%;
     top:-94.5vw;
     left:30vw;
     
@@ -1158,7 +1157,7 @@
 .Officials .frame-7 p{
 
     
-    font-size: 1em;
+    font-size: 1vw;
     padding: 5% 0% 0% 8%;
 
 }
@@ -1171,7 +1170,7 @@
     width: 18vw;
     height:50vh;
     background-color:#C4C4C4;
-    border-radius: 6px;
+    border-radius: 2%;
     top:-119vw;
     left:50vw;
 
@@ -1188,7 +1187,7 @@
 
 .Officials .frame-8 p{
     
-    font-size: 1em;
+    font-size: 1vw;
     padding: 5% 0% 0% 8%;
 }
 
@@ -2458,6 +2457,7 @@ table td, table th{
 }
 
 .footer{
+
     background-color:#192F59;
     width:100%;
     height:100vh;
@@ -2471,14 +2471,12 @@ table td, table th{
     height: auto;
     background-color: #192F59;
 
-    
-
 }
 
 .footer ul li{
    
     list-style-type: none;
-    padding: 5px;
+    padding: 2%;
     color: white;
     font-size: 1em;
     font-weight: 550;
@@ -2504,7 +2502,7 @@ table td, table th{
     
 
     color: white;
-    transform: translateY(600px);
+    transform: translateY(85vh);
 
 }
 
@@ -3939,7 +3937,7 @@ table td, table th{
 
 }
 
- 
+
 
 
 }
@@ -4040,6 +4038,8 @@ table td, table th{
 
 }
 
+
+
     
     
 }
@@ -4120,6 +4120,8 @@ table td, table th{
         top:-40%;
     
     }
+
+    
 
   
 }
