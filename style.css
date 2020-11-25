@@ -2912,7 +2912,7 @@ table td, table th{
     left:5%;
     background-color: #FFCC66;
     height: 8vh;    
-    width:60vw;
+    width:65vw;
     color: #192F59;
     
 }
@@ -2920,7 +2920,7 @@ table td, table th{
 .director P{
 
     position: relative;
-    padding: 10px 0px 0px 35px;
+    padding: 2% 0% 0% 20%;
     font-weight: 550;
     font-size: 1em;
     width:100vw;
