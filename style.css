@@ -899,7 +899,7 @@
     left:5%;
     background-color: #FFCC66;
     height: 7.5vh;    
-    width:22%;
+    width:20vw;
     color: #192F59;
     
 }
@@ -2912,7 +2912,7 @@ table td, table th{
     left:5%;
     background-color: #FFCC66;
     height: 8vh;    
-    width:75%;
+    width:60vw;
     color: #192F59;
     
 }
@@ -2923,7 +2923,7 @@ table td, table th{
     padding: 10px 0px 0px 35px;
     font-weight: 550;
     font-size: 1em;
-    width:500%;
+    width:100vw;
 }
 
 
