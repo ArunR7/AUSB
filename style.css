@@ -566,7 +566,7 @@
     position: relative;
     top:10vh;
     left:10%;
-    width: 80%;
+    width: 80vw;
     height: 200vh;
     background-color: #192F59;
     border-radius:8px;
@@ -600,9 +600,9 @@
     justify-content: space-between;
     color: #192F59;
     background-color: #FFCC66;
-    width: 150%;
+    width: 10vw;
     height: 6vh;
-    padding: 20px;
+    padding: 10%;
     border-radius: 4px;
 }
 
@@ -677,7 +677,7 @@
     justify-content: center;
     align-items: center;
     padding: 2% 0% 0% 18%;
-    margin-top: 25%;
+    margin-top: 20%;
     transform: translateY(-45vh);
 }
 
@@ -732,7 +732,7 @@
     justify-content: center;
     align-items: center;
     padding: 2% 0% 0% 18%;
-    margin-top: 25%;
+    margin-top: 20%;
     transform: translateY(-45vh);
 }
 
@@ -745,7 +745,7 @@
     justify-content: center;
     align-items: center;
     padding: 2% 0% 0% 18%;
-    margin-top: 25%;
+    margin-top: 20%;
     transform: translateY(-90vh);
 }
 
@@ -814,7 +814,7 @@
     justify-content: center;
     align-items: center;
     padding: 2% 0% 0% 18%;
-    margin-top: 25%;
+    margin-top: 20%;
     transform: translateY(-135vh);
 }
 
@@ -869,7 +869,7 @@
     justify-content: center;
     align-items: center;
     padding: 2% 0% 0% 18%;
-    margin-top: 25%;
+    margin-top: 20%;
     transform: translateY(-135vh);
 }
 
