@@ -117,11 +117,12 @@
     color:#FFCC66;
     list-style-type: none;
     padding:3%;
+    font-size: 1vw;
 }
 
 .Zonal h2{
 
-    font-size: 1em;
+    font-size: 1vw;
     font-weight: 600;
     color: white;
     padding-left: 30%;
@@ -243,11 +244,12 @@
     color:#FFCC66;
     list-style-type: none;
     padding:4%;
+    font-size: 1vw;
 }
 
 .InterZonal h2{
 
-    font-size: 1em;
+    font-size: 1vw;
     font-weight: 600;
     color: white;
     padding-left: 30%;
@@ -279,11 +281,12 @@
     color:#FFCC66;
     list-style-type: none;
     padding:2%;
+    font-size: 1vw;
 }
 
 .InterUniversity h2{
 
-    font-size: 1em;
+    font-size: 1vw;
     font-weight: 600;
     color: white;
     padding-left: 30%;
