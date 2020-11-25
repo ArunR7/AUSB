@@ -362,9 +362,13 @@
 }
 
 .footer ul li{
-   
+    
+    position: relative;
     list-style-type: none;
-    padding: 4%;
+    padding-top: 4%;
+    padding-bottom:4%;
+    padding-right: 4%;
+    padding-left:6%;
     color: white;
     font-size: 1vw;
     font-weight: 550;
