@@ -314,9 +314,9 @@
     
     position: relative;
     color: white;
-    top:10vmin;
-    left: 21%;
-    font-size:1em;
+    top:7vmin;
+    left:19%;
+    font-size:1vw;
     font-weight: 600;
     color: #FFCC66;
     width:100%;
@@ -331,10 +331,11 @@
     position: relative;
     color: white;
     left: 21%;
-    top:10vmin;
+    top:5vmin;
     width:58%;
     height:auto;
     padding: 0.1%;
+    font-size:1vw;
     
 }
 
