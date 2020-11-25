@@ -335,6 +335,9 @@
 }
 
 
+/* Footer Section */
+
+
 
 .footer{
 
@@ -347,7 +350,7 @@
    
     display: flex;
     width: 100%;
-    height: auto;
+    height:auto;
     background-color: #192F59;
     margin-top: 50vmin;
     
@@ -359,7 +362,7 @@
     list-style-type: none;
     padding: 4%;
     color: white;
-    font-size: 1em;
+    font-size: 1vw;
     font-weight: 550;
     
 }
@@ -2100,12 +2103,6 @@ table td, table th{
 
 
 
-
-
-
-
-
-
 /*  Media Query 576px */
 
 @media(max-width:576px){
@@ -2480,7 +2477,7 @@ table td, table th{
     list-style-type: none;
     padding: 2%;
     color: white;
-    font-size: 1em;
+    font-size: 3vw;
     font-weight: 550;
     
 }
@@ -2502,10 +2499,10 @@ table td, table th{
 
 .line{
     
-
+    position: relative;
+    top:80vh;
     color: white;
-    transform: translateY(85vh);
-
+    
 }
 
 
