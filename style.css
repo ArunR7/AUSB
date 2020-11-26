@@ -2478,7 +2478,9 @@ table td, table th{
 
     background-color:#192F59;
     width:100%;
-    height:100vh;
+    height:50vh;
+    position:fixed bottom;
+    bottom:0;
 }
 
 .footer ul{
@@ -2523,6 +2525,7 @@ table td, table th{
     position: absolute;
     top:510%;
     color: white;
+    position:fixed bottom;
     
 }
 
@@ -2550,8 +2553,8 @@ table td, table th{
     position: absolute;  
     color: #FFCC66;
     border: 1% solid #FFCC66;
-    width:55vh;
-    
+    width:50vh;
+    position:fixed bottom;
 
     
 }
