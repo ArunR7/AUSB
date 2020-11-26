@@ -2475,21 +2475,18 @@ table td, table th{
 }
 
 .footer{
-
+    
+    position: relative;
     background-color:#192F59;
     width:100%;
-    height:50vh;
-    position:fixed bottom;
-    bottom:0;
+    height:100vh;
+    
 }
 
 .footer ul{
    
     display: flex;
     flex-direction:column ;
-    width: 100%;
-    height: auto;
-    background-color: #192F59;
 
 }
 
@@ -2504,9 +2501,10 @@ table td, table th{
 }
 
 .footer ul p{
+
     display: block;
     color: #FFCC66;
-    padding: 20vmin;
+    padding: 5vh;
     
 
     
@@ -2523,10 +2521,9 @@ table td, table th{
 .line{
     
     position: absolute;
-    top:510%;
+    margin-top:5vh;
     color: white;
-    position:fixed bottom;
-    
+ 
 }
 
 .C1{
@@ -2553,8 +2550,8 @@ table td, table th{
     position: absolute;  
     color: #FFCC66;
     border: 1% solid #FFCC66;
-    width:50vh;
-    position:fixed bottom;
+    width:55vh;
+   
 
     
 }
