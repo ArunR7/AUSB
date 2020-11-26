@@ -2521,7 +2521,7 @@ table td, table th{
 .line{
     
     position: absolute;
-    top:500%;
+    top:510%;
     color: white;
     
 }
@@ -2547,8 +2547,7 @@ table td, table th{
 
 .line2{
   
-    position: absolute;
-    margin-top:-1%;   
+    position: absolute;  
     color: #FFCC66;
     border: 1px solid #FFCC66;
     
