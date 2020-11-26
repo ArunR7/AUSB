@@ -2549,7 +2549,8 @@ table td, table th{
   
     position: absolute;  
     color: #FFCC66;
-    border: 1px solid #FFCC66;
+    border: 1% solid #FFCC66;
+    width:55vh;
     
 
     
