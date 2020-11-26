@@ -357,7 +357,7 @@
     width: 100%;
     height:auto;
     background-color: #192F59;
-    margin-top: 50vmin;
+    margin-top: 50vh;
     
 
 }
@@ -366,7 +366,7 @@
     
     position: relative;
     list-style-type: none;
-    padding-top: 4%;
+    padding-top: 1.5%;
     padding-bottom:4%;
     padding-right: 4%;
     padding-left:6%;
@@ -378,6 +378,8 @@
 
 .footer ul p{
     
+     
+    position: relative;
     display: block;
     color: #FFCC66;
     
@@ -385,6 +387,8 @@
 
 .line{
    
+     
+    position: relative;
     margin-top:1%;
     padding:3%;
     color: white;
@@ -393,12 +397,18 @@
 
 .line2{
 
-    margin-top:1%;
+     
+    position: absolute;
+    margin-top:-1%;
+    width:190vh;
     color: #FFCC66;
     border: 1px solid #FFCC66;
 
     
 }
+
+
+/* Director Message Section */
 
 .Message{
     
@@ -2486,7 +2496,7 @@ table td, table th{
     list-style-type: none;
     padding: 2%;
     color: white;
-    font-size: 3vw;
+    font-size: 4vw;
     font-weight: 550;
     
 }
@@ -2501,23 +2511,44 @@ table td, table th{
 }
 
 .footer ul li .N2{
-
+   
+    height: 0px;
+    width: 0px;
     visibility: hidden;
 }
 
 
 .line{
     
-    position: relative;
-    top:80vh;
+    position: absolute;
+    top:500%;
     color: white;
     
 }
 
+.C1{
+    
+    position: relative;
+    justify-content: center;
+    align-items: center; 
+    left:10%;
+
+}
+
+.fa-copyright{
+
+    position: relative;
+    justify-content: center;
+    align-items: center; 
+    left:10%;
+
+}
+
 
 .line2{
-
-      
+  
+    position: absolute;
+    margin-top:-1%;   
     color: #FFCC66;
     border: 1px solid #FFCC66;
     
