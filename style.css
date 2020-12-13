@@ -475,15 +475,17 @@
     color: #FFCC66;
     list-style-type: none;
     padding: 10px;
-    width:100vh;
+    width:50vw;
     
 }
 
 .Message .heading span ul li:nth-child(7){
     
-    width: 1200px;
-    padding: 30px;
-    font-weight: 300;
+    width: 100%;
+    padding: 20%;
+    font-weight:1em;
+ 
+
 }
 
 
@@ -491,8 +493,8 @@
 
     width: 1200px;
     padding: 20px;
- 
     font-weight: 300;
+    
 }
 
 .Message .heading span ul li:nth-child(9){
