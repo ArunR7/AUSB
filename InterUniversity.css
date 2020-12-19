@@ -1,0 +1,50 @@
+
+/* Inter University Section*/
+
+
+.IU1{
+    
+    position: relative;
+    top:10vh;
+    left:10vw;
+    width: 80vw;
+    height: 100vh;
+    background-color: #192F59;
+    border-radius:8px;
+}
+
+.IUD1{
+
+    position: relative;
+    top:5%;
+    left:5%;
+    background-color: #FFCC66;
+    height: 7%;    
+    width: 15vw;
+    color: #192F59;
+    
+}
+
+.IUD1 P{
+
+    padding: 2% 0% 0% 25%;
+    font-weight: 550;
+    font-size: 1em;
+}
+
+
+.IU1 .Inter-links p{
+    
+    color: #FFCC66;
+    width: 500%;
+    font-weight:500;
+    font-size:1em;
+    padding: 10%;
+
+
+}
+
+.IU1 .Inter-links {
+
+    margin-top: 20%;
+}

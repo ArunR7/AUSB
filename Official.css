@@ -1,0 +1,274 @@
+
+/* Staff Section */
+
+.Officials{
+    
+    position: relative;
+    top:10vh;
+    left:10%;
+    width:85vw;
+    height:400vh;
+    background-color: #192F59;
+    border-radius:8px;
+}
+
+.faculities{
+
+    position: relative;
+    background-color: #FFCC66;
+    height: 7vh;    
+    width: 15%;
+    color: #192F59;
+    top:2%;
+    left:5%;
+    
+}
+
+.faculities P{
+
+    padding: 5% 0% 0% 20%;
+    font-weight: 550;
+    font-size: 1em;
+}
+
+
+
+.Officials .frame-1{
+    
+    position:relative;
+    width: 18vw;
+    height:50vh;
+    left:25vw;
+    background-color:#C4C4C4;
+    border-radius: 2%;
+      
+
+}
+
+.Officials .frame-1 img{
+
+    position: relative;
+    width: 45%;
+    height:30%;
+    margin-top: 10%;
+    left:25%;
+}
+
+.Officials .frame-1 p{
+
+    font-size: 1vw;
+    padding: 5% 0% 0% 8%;
+}
+
+
+.Officials .frame-2{
+    
+    position:relative;
+    width: 18vw;
+    height:50vh;
+    left:0vw;
+    background-color:#C4C4C4;
+    border-radius: 2%;
+
+}
+
+.Officials .frame-2 img{
+
+    
+    position: relative;
+    width: 45%;
+    height:30%;
+    margin-top: 10%;
+    left:25%;
+}
+
+.Officials .frame-2 p{
+
+    
+    font-size: 1vw;
+    padding: 5% 0% 0% 8%;
+}
+
+
+.Officials .frame-3{
+    
+ 
+    position:relative;
+    width: 18vw;
+    height:50vh;
+    top:-24.4vw;
+    left:20vw;
+    background-color:#C4C4C4;
+    border-radius: 2%;
+
+}
+
+.Officials .frame-3 img{
+
+    position: relative;
+    width: 45%;
+    height:30%;
+    margin-top: 10%;
+    left:25%;
+}
+
+.Officials .frame-3 p{
+
+   
+    font-size: 1vw;
+    padding: 2% 0% 0% 8%;
+}
+
+
+
+.Officials .frame-4{
+    
+  
+    position:relative;
+    width: 18vw;
+    height:50vh;
+    top:-48.9vw;
+    left:40vw;
+    background-color:#C4C4C4;
+    border-radius: 2%;
+    
+
+}
+
+.Officials .frame-4 img{
+
+    position: relative;
+    width: 45%;
+    height:30%;
+    margin-top: 10%;
+    left:25%;
+}
+
+.Officials .frame-4 p{
+   
+    font-size: 1vw;
+    padding: 5% 0% 0% 8%;
+}
+
+
+.Officials .frame-5{
+    
+
+    position:relative;
+    width: 18vw;
+    height:50vh;
+    top:-73.2vw;
+    left:60vw;
+    background-color:#C4C4C4;
+    border-radius: 2%;
+    
+
+}
+
+.Officials .frame-5 img{
+
+    position: relative;
+    width: 45%;
+    height:30%;
+    margin-top: 10%;
+    left:25%;
+}
+
+.Officials .frame-5 p{
+
+    font-size: 1vw;
+    padding: 5% 0% 0% 8%;
+}
+
+.Officials .frame-6{
+    
+    position:relative;
+    width: 18vw;
+    height:50vh;
+    background-color:#C4C4C4;
+    border-radius: 2%;
+    top:-70vw;
+    left:10vw;
+    
+
+}
+
+.Officials .frame-6 img{
+
+    
+    position: relative;
+    width: 45%;
+    height:30%;
+    margin-top: 10%;
+    left:25%;
+}
+
+.Officials .frame-6 p{
+
+    font-size: 1vw;
+    padding: 5% 0% 0% 8%;
+}
+
+.Officials .frame-7{
+    
+    position:relative;
+    width: 18vw;
+    height:50vh;
+    background-color:#C4C4C4;
+    border-radius: 2%;
+    top:-94.5vw;
+    left:30vw;
+    
+
+}
+
+.Officials .frame-7 img{
+
+    position: relative;
+    width: 45%;
+    height:30%;
+    margin-top: 10%;
+    left:25%;
+}
+
+.Officials .frame-7 p{
+
+    
+    font-size: 1vw;
+    padding: 5% 0% 0% 8%;
+
+}
+
+
+.Officials .frame-8{
+    
+     
+    position:relative;
+    width: 18vw;
+    height:50vh;
+    background-color:#C4C4C4;
+    border-radius: 2%;
+    top:-119vw;
+    left:50vw;
+
+}
+
+.Officials .frame-8 img{
+
+    position: relative;
+    width: 45%;
+    height:30%;
+    margin-top: 10%;
+    left:25%;
+}
+
+.Officials .frame-8 p{
+    
+    font-size: 1vw;
+    padding: 5% 0% 0% 8%;
+}
+
+.wrapper-2,.wrapper-3{
+
+    margin-top: 50%;
+}

@@ -1,0 +1,61 @@
+
+
+/* Achcievements 2012-2013 */
+
+
+/* About AUSB */ 
+
+.ausb4{
+     
+    position: relative;
+    top:10vh;
+    left:5vw;
+    width: 90vw;
+    height: 300vh;
+    background-color: #192F59;
+    border-radius:8px;
+}
+
+.ausb5{
+   
+    position: relative;
+    top:5vh;
+    left:5vw;
+    background-color: #FFCC66;
+    height: 2%;    
+    width: 20%;
+    color: #192F59;
+  
+    
+}
+
+.ausb5 P{
+
+    padding: 2% 0% 0% 0%;
+    font-weight: 550;
+    font-size: 1em;
+}
+
+
+
+.organisation H5{
+
+    color:white;
+    font-weight:600;
+    font-size: 1em;
+    width: 100%;
+    margin-top: 10%;
+
+
+}
+
+.organisation p{
+
+    color: #FFCC66;
+    width: 80vw;
+    font-weight:300;
+    font-size: 1em;
+   
+  
+}
+

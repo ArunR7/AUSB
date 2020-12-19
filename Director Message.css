@@ -1,0 +1,106 @@
+
+/* Director Message Section */
+
+.Message{
+    
+    position: relative;
+    margin-top: 5%;
+    margin-bottom: 10%;
+    left: 10%;
+    width: 80%;
+    height: 150vh;
+    background-color: #192F59;
+    border-radius:8px;
+}
+
+.heading{
+
+    position: relative;
+    background-color: #FFCC66;
+    height: 5%;    
+    width: 215px;
+    color: #192F59;
+    top: 5%;
+    left: 5%;
+    
+}
+
+.heading P{
+
+    padding: 5% 0 0 5%;
+    font-weight: 550;
+    font-size: 1em;
+}
+
+
+
+.Message .heading img{
+
+    width: 100%;
+    height: auto;
+ 
+    
+}
+
+.Message .heading span h2{
+    
+    display: inline-block;
+    color: #FFCC66;
+    position: relative;
+    left:130%;
+    top:-400%
+    
+  
+}
+
+.Message .heading span ul{
+
+    position: relative;
+    left:130%;
+    top:-400%
+   
+}
+
+.Message .heading span ul li{
+
+    color: #FFCC66;
+    list-style-type: none;
+    padding: 10px;
+    width:50vw;
+    
+}
+
+.Message .heading span ul li:nth-child(7){
+    
+    width: 100%;
+    padding: 20%;
+    font-weight:1em;
+ 
+
+}
+
+
+.Message .heading span ul li:nth-child(8){
+
+    width: 1200px;
+    padding: 20px;
+    font-weight: 300;
+    
+}
+
+.Message .heading span ul li:nth-child(9){
+
+    width: 1200px;
+    padding: 20px;
+   
+    font-weight: 300;
+}
+
+
+.Message .heading span ul li:nth-child(10){
+
+    width: 1200px;
+    padding: 20px;
+  
+    font-weight: 300;
+}

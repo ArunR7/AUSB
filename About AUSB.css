@@ -1,0 +1,69 @@
+
+
+/* About AUSB */ 
+
+.ausb1{
+    
+    position: relative;
+    top:10vh;
+    left:5%;
+    width: 90vw;
+    height: 700vh;
+    background-color: #192F59;
+    border-radius:8px;
+    
+}
+
+.ausb2{
+
+    position: relative;
+    background-color: #FFCC66;
+    height:7vh;    
+    width: 18%;
+    color: #192F59;
+    top:1%;
+    left:5%;
+    
+
+    
+}
+
+.ausb2 P{
+
+    padding: 2% 0% 0% 20%;
+    font-weight: 550;
+    font-size: 1em;
+    
+}
+
+
+
+
+.Organisation H5{
+
+
+    position: relative;
+    left:8%;
+    top:10%;
+    color:white;
+    font-weight:600;
+    font-size: 1.5em;
+    width:150vw;
+  
+ 
+  
+
+}
+
+.Organisation p{
+    
+    position: relative;
+    left:-11%;
+    color: #FFCC66;
+    width: 80vw;
+    font-weight:300;
+    font-size: 1em;
+  
+    
+  
+}

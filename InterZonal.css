@@ -1,0 +1,46 @@
+
+/* Inter Zonal Section */
+
+.IIZ1{
+    
+    position: relative;
+    top:10vh;
+    left:8vw;
+    width: 80vw;
+    height: 100vh;
+    background-color: #192F59;
+    border-radius:8px;
+}
+
+.IZ1{
+
+    position: relative;
+    top:7vh;
+    left:5%;
+    background-color: #FFCC66;
+    height: 7%;    
+    width: 15%;
+    color: #192F59;
+    
+    
+}
+
+.IZ1 P{
+
+    padding: 2% 0% 0% 25%;
+    font-weight: 550;
+    font-size: 1em;
+}
+
+
+
+
+.IIZ1 .Interzonal-links p{
+
+    color: #FFCC66;
+    width: 100vw;
+    font-weight:500;
+    font-size: 1em;
+    padding: 10%;
+}
+

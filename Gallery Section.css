@@ -1,0 +1,76 @@
+
+
+/* Gallery Section */
+
+.GG1{
+    
+    position: relative;
+    top:10vh;
+    left:10vw;
+    width: 80vw;
+    height: 100vh;
+    background-color: #192F59;
+    border-radius:8px;
+}
+
+.G1{
+
+    position: relative;
+    top:5vh;
+    left:2vw;
+    background-color: #FFCC66;
+    height:7%;    
+    width:20%;
+    color: #192F59;
+
+    
+}
+
+.G1 P{
+
+    padding: 2% 0% 0% 20%;
+    font-weight: 550;
+    font-size: 1em;
+}
+
+
+
+
+.GG1 .Interzonal-links p{
+
+    color: #FFCC66;
+    width: 65vw;
+    font-weight:500;
+    font-size: 1em;
+    padding: 5%;
+  
+}
+
+.Interzonal-links .photo{
+
+    position:relative;
+    top:5vh;
+    left:25vw;
+}
+
+ .description{
+
+    position:relative;
+    top:5vh;
+    left:5vw;
+}
+
+
+.GA{
+
+    position:relative;
+    top:-5vh;
+    left:35vw;
+}
+
+.GA1{
+
+    position:relative;
+    top:-5vh;
+    left:35vw;
+}

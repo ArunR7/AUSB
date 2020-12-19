@@ -1,0 +1,319 @@
+
+/* Zone-Wise Colleges Section */
+
+.Zone-wise{
+    
+    position: relative;
+    top:10vh;
+    left:10%;
+    width: 80vw;
+    height: 200vh;
+    background-color: #192F59;
+    border-radius:8px;
+}
+
+.colleges{
+    
+    position: relative;
+    top:2%;
+    left:5%;
+    background-color: #FFCC66;
+    height: 7vh;    
+    width: 20%;
+    color: #192F59;
+    
+    
+}
+
+.colleges P{
+
+    padding: 5% 0% 0% 10%;
+    font-weight: 550;
+    font-size: 1em;
+}
+
+
+
+.colleges ul li{
+    
+    display: flex;
+    justify-content: space-between;
+    color: #192F59;
+    background-color: #FFCC66;
+    width: 10vw;
+    height: 6vh;
+    padding: 10%;
+    border-radius: 4px;
+}
+
+
+.Zone-wise .colleges ul li:nth-child(1){
+   
+    position: relative;
+    color:#192F59;
+    top:20%;
+    justify-content: center;
+    align-items: center;
+    padding: 2% 0% 0% 18%;
+   
+}
+
+.Zone-wise .colleges ul li:nth-child(2){
+
+    position: relative;
+    color:#192F59;
+    top:20%;
+    justify-content: center;
+    align-items: center;
+    padding: 2% 0% 0% 18%;
+    margin-top: 25%;
+}
+
+.Zone-wise .colleges ul li:nth-child(3){
+
+    position: relative;
+    color:#192F59;
+    top:20%;
+    justify-content: center;
+    align-items: center;
+    padding: 2% 0% 0% 18%;
+    margin-top: 25%;
+}
+
+
+.Zone-wise .colleges ul li:nth-child(4){
+
+    position: relative;
+    color:#192F59;
+    top:20%;
+    justify-content: center;
+    align-items: center;
+    padding: 2% 0% 0% 18%;
+    margin-top: 25%;
+}
+
+
+
+.Zone-wise .colleges ul li:nth-child(5){
+
+    position: relative;
+    color:#192F59;
+    top:20%;
+    justify-content: center;
+    align-items: center;
+    padding: 2% 0% 0% 18%;
+    margin-top: 25%;
+}
+
+
+
+.Zone-wise .colleges ul li:nth-child(6){
+
+    
+    position: relative;
+    color:#192F59;
+    top:0%;
+    left:13vw;
+    justify-content: center;
+    align-items: center;
+    padding: 2% 0% 0% 18%;
+    margin-top: 20%;
+    transform: translateY(-45vh);
+}
+
+.Zone-wise .colleges ul li:nth-child(7){
+
+    position: relative;
+    color:#192F59;
+    top:0%;
+    left:13vw;
+    justify-content: center;
+    align-items: center;
+    padding: 2% 0% 0% 18%;
+    margin-top: 25%;
+    transform: translateY(-45vh);
+}
+
+.Zone-wise .colleges ul li:nth-child(8){
+
+    position: relative;
+    color:#192F59;
+    top:0%;
+    left:13vw;
+    justify-content: center;
+    align-items: center;
+    padding: 2% 0% 0% 18%;
+    margin-top: 25%;
+    transform: translateY(-45vh);
+}
+
+
+.Zone-wise .colleges ul li:nth-child(9){
+
+    position: relative;
+    color:#192F59;
+    top:0%;
+    left:13vw;
+    justify-content: center;
+    align-items: center;
+    padding: 2% 0% 0% 18%;
+    margin-top: 25%;
+    transform: translateY(-45vh);
+}
+
+
+
+.Zone-wise .colleges ul li:nth-child(10){
+
+    position: relative;
+    color:#192F59;
+    top:0%;
+    left:13vw;
+    justify-content: center;
+    align-items: center;
+    padding: 2% 0% 0% 18%;
+    margin-top: 20%;
+    transform: translateY(-45vh);
+}
+
+.Zone-wise .colleges ul li:nth-child(11){
+
+    position: relative;
+    color:#192F59;
+    top:0%;
+    left:25vw;
+    justify-content: center;
+    align-items: center;
+    padding: 2% 0% 0% 18%;
+    margin-top: 20%;
+    transform: translateY(-90vh);
+}
+
+.Zone-wise .colleges ul li:nth-child(12){
+
+    position: relative;
+    color:#192F59;
+    top:0%;
+    left:25vw;
+    justify-content: center;
+    align-items: center;
+    padding: 2% 0% 0% 18%;
+    margin-top: 25%;
+    transform: translateY(-90vh);
+}
+
+.Zone-wise .colleges ul li:nth-child(13){
+
+    position: relative;
+    color:#192F59;
+    top:0%;
+    left:25vw;
+    justify-content: center;
+    align-items: center;
+    padding: 2% 0% 0% 18%;
+    margin-top: 25%;
+    transform: translateY(-90vh);
+}
+
+
+.Zone-wise .colleges ul li:nth-child(14){
+
+    position: relative;
+    color:#192F59;
+    top:0%;
+    left:25vw;
+    justify-content: center;
+    align-items: center;
+    padding: 2% 0% 0% 18%;
+    margin-top: 25%;
+    transform: translateY(-90vh);
+}
+
+
+
+.Zone-wise .colleges ul li:nth-child(15){
+
+    position: relative;
+    color:#192F59;
+    top:0%;
+    left:25vw;
+    justify-content: center;
+    align-items: center;
+    padding: 2% 0% 0% 18%;
+    margin-top: 25%;
+    transform: translateY(-90vh);
+}
+
+
+.Zone-wise .colleges ul li:nth-child(16){
+
+    position: relative;
+    color:#192F59;
+    top:0%;
+    left:38vw;
+    justify-content: center;
+    align-items: center;
+    padding: 2% 0% 0% 18%;
+    margin-top: 20%;
+    transform: translateY(-135vh);
+}
+
+.Zone-wise .colleges ul li:nth-child(17){
+
+    position: relative;
+    color:#192F59;
+    top:0%;
+    left:38vw;
+    justify-content: center;
+    align-items: center;
+    padding: 2% 0% 0% 18%;
+    margin-top: 25%;
+    transform: translateY(-135vh);
+}
+
+.Zone-wise .colleges ul li:nth-child(18){
+
+    position: relative;
+    color:#192F59;
+    top:0%;
+    left:38vw;
+    justify-content: center;
+    align-items: center;
+    padding: 2% 0% 0% 18%;
+    margin-top: 25%;
+    transform: translateY(-135vh);
+}
+
+
+.Zone-wise .colleges ul li:nth-child(19){
+
+    position: relative;
+    color:#192F59;
+    top:0%;
+    left:38vw;
+    justify-content: center;
+    align-items: center;
+    padding: 2% 0% 0% 18%;
+    margin-top: 25%;
+    transform: translateY(-135vh);
+}
+
+
+
+.Zone-wise .colleges ul li:nth-child(20){
+
+    position: relative;
+    color:#192F59;
+    top:0%;
+    left:38vw;
+    justify-content: center;
+    align-items: center;
+    padding: 2% 0% 0% 18%;
+    margin-top: 20%;
+    transform: translateY(-135vh);
+}
+
+.wrapper{
+
+    margin:20% 0% 0% 60%;
+}

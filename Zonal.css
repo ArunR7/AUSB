@@ -1,0 +1,45 @@
+
+/* Zonal Section */
+
+.zonal{
+    
+    
+    position: relative;
+    top:10vh;
+    left:8vw;
+    width: 80vw;
+    height: 100vh;
+    background-color: #192F59;
+    border-radius:8px;
+}
+
+.z1{
+
+    position: relative;
+    background-color: #FFCC66;
+    height: 7%;    
+    width: 10%;
+    color: #192F59;
+    top:5%;
+    left: 5%;
+    
+}
+
+.z1 P{
+
+    padding: 2% 0% 0% 20%;
+    font-weight: 550;
+    font-size: 1em;
+}
+
+
+
+
+.zonal .zonal-links p{
+
+    color: #FFCC66;
+    width: 100vw;
+    font-weight:500;
+    font-size: 1em;
+    padding: 15%;
+}
