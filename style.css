@@ -1,13 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap');
 
-html,body
-{
-    width: 100%;
-    margin: 0px;
-    padding: 0px;
-    overflow-x: hidden; 
-}
-
 *{
     margin: 0px;
     padding: 0px;
@@ -15,7 +7,13 @@ html,body
     font-family: 'Poppins', sans-serif;
 }
 
-
+html,body
+{
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden; 
+}
 
 .navbar-toggler{
 
@@ -441,7 +439,7 @@ html,body
    
      
     position: relative;
-    top:45rem;
+    margin-top:1%;
     padding:3%;
     color: white;
 }
@@ -451,7 +449,7 @@ html,body
 
      
     position: absolute;
-    top:2rem;
+    margin-top:-1%;
     width:190vh;
     color: #FFCC66;
     border: 1px solid #FFCC66;
@@ -509,8 +507,7 @@ html,body
     color: #FFCC66;
     position: relative;
     left:130%;
-    top:-400%;
-    font-weight:bold;
+    top:-400%
     
   
 }
