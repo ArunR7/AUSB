@@ -2164,6 +2164,21 @@ table td, table th{
     margin-left:1%;
 }
 
+.btn-primary{
+
+    background-color: #192F59;
+    border-style:none;
+
+}
+
+.btn-primary:visited{
+
+    background-color: #FFCC66;
+    transition: 0.5s ease-in-out;
+
+}
+
+
 
 /*  Media Query 576px */
 
