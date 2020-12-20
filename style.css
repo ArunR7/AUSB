@@ -83,12 +83,16 @@
 
 .ground img{
    
-    position:relative;
-    width: 100%;
-    height: 139.8%;
     position: absolute;
+    width: 100%;
+   
 }
 
+.second-picture{
+    position: absolute;
+    width: 100%;
+    height: 100vh;
+}
 .ground-container{
 
     position: relative;
@@ -2203,6 +2207,8 @@ table td, table th{
     
     }
 
+    
+
     /* Hockey Section */
 
 
@@ -3955,6 +3961,18 @@ table td, table th{
         visibility: hidden;
     }
 
+    #particles-js3{
+
+        background-color:#192F59;
+        width:100%;
+        height:20vh;
+        top: 20rem;
+    
+    }
+    
+
+
+
         
 .search{
 
@@ -4072,29 +4090,6 @@ table td, table th{
 }
 
 
-#particles-js2 p{
-
-    position: relative;
-    color:white;
-    font-size:1.5em;
-    font-weight:bold;
-    top:1rem;
-    left:6rem;
-
-}
-
-#particles-js3 p{
-
-    position: relative;
-    color:white;
-    font-size:1.5em;
-    font-weight:bold;
-    top:3rem;
-    left:10rem;
-
-}
-
-
 
 
 }
@@ -4109,6 +4104,17 @@ table td, table th{
         visibility: hidden;
      
     }
+
+    
+    #particles-js3{
+
+        background-color:#192F59;
+        width:100%;
+        height:20vh;
+        top: 20rem;
+    
+    }
+    
     
     .InterZonal{
         height: 0px;
@@ -4195,30 +4201,6 @@ table td, table th{
 
 }
 
-#particles-js2 p{
-
-    position: relative;
-    color:white;
-    font-size:1.5em;
-    font-weight:bold;
-    top:1rem;
-    left:6rem;
-
-}
-
-#particles-js3 p{
-
-    position: relative;
-    color:white;
-    font-size:1.5em;
-    font-weight:bold;
-    top:3rem;
-    left:10rem;
-
-}
-
-
-
 
 
     
@@ -4301,31 +4283,6 @@ table td, table th{
         top:-40%;
     
     }
-
-    
-#particles-js2 p{
-
-    position: relative;
-    color:white;
-    font-size:1.5em;
-    font-weight:bold;
-    top:1rem;
-    left:6rem;
-
-}
-
-#particles-js3 p{
-
-    position: relative;
-    color:white;
-    font-size:1.5em;
-    font-weight:bold;
-    top:3rem;
-    left:10rem;
-
-}
-
-
 
     
 
