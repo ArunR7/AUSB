@@ -85,18 +85,11 @@
    
     position: absolute;
     width: 100%;
-   
+  
 }
 
-.second-picture{
-    position: absolute;
-    width: 100%;
-    height: 100vh;
-}
-.ground-container{
 
-    position: relative;
-}
+
  
 /* Zonal Section */
 
@@ -2362,11 +2355,7 @@ table td, table th{
     top:-10vh;
 }
 
-.ground-container{
 
-    position: relative;
-}
- 
 
 #particles-js p{
 
@@ -3941,6 +3930,12 @@ table td, table th{
     top:3rem;
     left:10rem;
 
+}
+
+.hand{
+
+    position: relative;
+    top:5rem;
 }
 
 
