@@ -7,6 +7,12 @@
     font-family: 'Poppins', sans-serif;
 }
 
+html,body
+{
+  
+    overflow-x: hidden; 
+}
+
 .navbar-toggler{
 
     background-color: white;
@@ -2167,6 +2173,7 @@ table td, table th{
 .btn-primary{
 
     background-color: #192F59;
+    color:#FFCC66;
     border-style:none;
 
 }
