@@ -1,12 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap');
 
-*{
-    margin: 0px;
-    padding: 0px;
-    box-sizing: border-box;
-    font-family: 'Poppins', sans-serif;
-}
-
 html,body
 {
     width: 100%;
@@ -14,6 +7,15 @@ html,body
     padding: 0px;
     overflow-x: hidden; 
 }
+
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+
 
 .navbar-toggler{
 
@@ -439,7 +441,7 @@ html,body
    
      
     position: relative;
-    margin-top:1%;
+    top:45rem;
     padding:3%;
     color: white;
 }
@@ -449,7 +451,7 @@ html,body
 
      
     position: absolute;
-    margin-top:-1%;
+    top:2rem;
     width:190vh;
     color: #FFCC66;
     border: 1px solid #FFCC66;
@@ -507,7 +509,8 @@ html,body
     color: #FFCC66;
     position: relative;
     left:130%;
-    top:-400%
+    top:-400%;
+    font-weight:bold;
     
   
 }
