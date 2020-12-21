@@ -2158,10 +2158,11 @@ table td, table th{
     height: 5vh;
 
 }
-
+/* Carousel Section */
 .jumbotron1{
 
     margin-left:1%;
+    max-width:80%;
 }
 
 .btn-primary{
