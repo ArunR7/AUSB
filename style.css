@@ -2159,10 +2159,11 @@ table td, table th{
 
 }
 /* Carousel Section */
+
 .jumbotron1{
 
     margin-left:1%;
-    max-width:80%;
+    width:85%;
 }
 
 .btn-primary{
@@ -2247,6 +2248,11 @@ table td, table th{
     padding: 5%;
 }
 
+.jumbotron1{
+
+    margin-left:1%;
+    width:100%;
+}
 
     
 /* Tennis Section */
